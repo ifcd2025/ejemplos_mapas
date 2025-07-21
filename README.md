@@ -1,6 +1,6 @@
 ![image info](resultado.jpg)
 
-#iconos de boostrap
+# iconos de boostrap
 Buscad:
 - droplet
 - book
