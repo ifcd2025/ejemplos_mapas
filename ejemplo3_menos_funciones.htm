@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Puntos de interés</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" />
+    <link rel="stylesheet" href="leaflet.awesome-markers.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script src="leaflet.awesome-markers.min.js"></script>        
+    <!-- con defer se espera a que se cargue el DOM antes de ejecutar el js -->
+    <script src="codigo_menos_funciones.js" defer></script>
+    <style>
+        #mapa {
+            height: 50vh;
+        }
+        #sitios div {
+            cursor: pointer;
+            user-select: none; /* Para que no se pueda seleccionar el texto */
+        }
+        #sitios div:hover {
+            /* Ponemos !important porque un estilo de bootStrap no deja
+            cambiar el fondo sin el */
+            background-color: cadetblue !important;
+        }
+    </style>
+</head>
+
+<body>
+    <header class="bg-black p-2 text-white">
+        <h1 class="text-center">Lugares de interés</h1>
+        <i class="bi bi-droplet-fill btn btn-success" id="fuentes"></i>
+        <i class="bi bi-camera-reels-fill btn btn-primary" id="cines"></i>
+        <i class="bi bi-book-fill btn btn-warning" id="bibliotecas"></i>
+        <i class="bi bi-house-fill btn btn-danger" id="hoteles"></i>
+    </header>
+    <div id="mapa"></div>
+    <div id="sitios" class="d-flex gap-2 flex-wrap my-2"></div>
+</body>
+
+</html>
