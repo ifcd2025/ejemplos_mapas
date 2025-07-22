@@ -12,6 +12,14 @@ function obtenerBibliotecas() {
     .catch(error => window.alert(error));
 }
 function mostrarBibliotecas(datos) {
+    // Eliminamos las marcas anteriores
+    mapa.eachLayer((layer) => {
+        // Comprobamos si la capa es un marcador
+        if (layer instanceof L.Marker) {
+            layer.remove();
+        }
+    });
+    const sitios = document.getElementById("sitios");
     for (const punto of datos.features) {
         // Lo normal es usar latitud y longitud pero en los archivos geojson viene
         // al revés
@@ -19,7 +27,13 @@ function mostrarBibliotecas(datos) {
         const longitud = punto.geometry.coordinates[0];
         // Usando desestructurización
         //const [longitud, latitud] = punto.geometry.coordinates;
-        const marca = L.marker([latitud, longitud]).addTo(mapa);
+        const icono = L.AwesomeMarkers.icon({
+            icon: "book-fill",
+            prefix: "bi",
+            markerColor: "blue",
+            iconColor: "white",
+        });
+        const marca = L.marker([latitud, longitud], {icon: icono}).addTo(mapa);
         // Operador de coalescencia nula ??: coge el primer valor que no sea null o undefined
         const nombre = punto.properties.nombre ?? punto.properties.title;
         let web = punto.properties.web ?? null;
@@ -31,6 +45,11 @@ function mostrarBibliotecas(datos) {
         } else {
             marca.bindPopup(`<p>${nombre}</p><a href="${web}">${web}</a>`);
         }
+        //Creamos las cajas de las ubicaciones
+        const div = document.createElement("div");
+        div.textContent = nombre;
+        div.classList.add("rounded-2", "bg-primary", "text-white", "p-1");
+        sitios.appendChild(div);
     }
     mapa.setZoom(13);
 }
