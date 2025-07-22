@@ -1,0 +1,1013 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [-8.715151126775822, 42.235224070922],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Alfonso XIII, 17-19",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo002.jpg",
+        "postcode": "36201",
+        "description": "Céntrico y acogedor hotel de Vigo, en la provincia de Pontevedra, el Hotel Recamar es un confortable establecimiento que le permitirá disfrutar de una agradable estancia en Vigo.",
+        "lon": -8.715151126775822,
+        "title": "Alda Estación",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986438911",
+        "web": "www.recamar.com",
+        "subcategoria": "Hotel de 1 estrella",
+        "idpoi": 8230,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.235224070922
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.70890742159952, 42.2348591245786],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Vía Norte, 9-1º A",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo003.jpg",
+        "postcode": "36206",
+        "description": "Pequeño hotel próximo a la estación de tren de Urzáiz, frente al hospital de Fátima.",
+        "lon": -8.70890742159952,
+        "title": "Sol-Por",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986416036",
+        "web": "www.hotelsolpor.com",
+        "subcategoria": "Hotel de 1 estrella",
+        "idpoi": 8231,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2348591245786
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.722294990654405, 42.2390843967642],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Marqués de Valladares, 8",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo076.jpg",
+        "postcode": "36201",
+        "description": "Edificio rehabilitado en 2009. Un hotel urbano, con un elegante y cuidado diseño, tanto interior como exterior, que escapa de las estridencias formales y donde se cuida hasta el mas mínimo detalle.",
+        "lon": -8.722294990654405,
+        "title": "Inffinit",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986442224",
+        "web": "www.inffinit.com",
+        "subcategoria": "Hotel de 3 estrellas",
+        "idpoi": 8303,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2390843967642
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.715367045873336, 42.2355109870083],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Alfonso XIII, 11",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo067.jpg",
+        "postcode": "36201",
+        "description": "Hotel próximo al puerto de Vigo. Situado en el nucleo urbano de Vigo, ubicado en la zona comercial y financiera de la ciudad, a 700 metros de la estacion de ferrocarril y 15 minutos del aeropuerto.",
+        "lon": -8.715367045873336,
+        "title": "B&B Vigo",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986447440",
+        "web": "www.ensenadavigo.com",
+        "subcategoria": "Hotel de 3 estrellas",
+        "idpoi": 8294,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2355109870083
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.718657310864842, 42.2374677412219],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Avda García Barbón, 17-19",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo084.jpg",
+        "postcode": "36201",
+        "description": "El hotel NH Collection Palacio de Vigo ofrece 108 elegantes y acogedoras habitaciones en un edificio histórico completamente renovado que data de 1904. La fachada original de granito y la carpintería interior están realzadas con las más modernas comodidades.",
+        "lon": -8.718657310864842,
+        "title": "NH Collection Palacio de Vigo",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986433643",
+        "web": "www.nh-hotels.com",
+        "subcategoria": "Hotel de 4 estrellas",
+        "idpoi": 8311,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2374677412219
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.686300599999981, 42.1709965],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Rúa Xeración Nos, 4",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo101.jpg",
+        "postcode": "36310",
+        "description": "Dispone de 21 habitaciones individuales con cocina y 204 habitaciones individuales con cocina compartida. Todas las habitaciones tienen baño propio, teléfono, calefacción, internet, antena de tv y conexión vía satélite. Habitaciones adaptadas a discapacitados.",
+        "lon": -8.686300599999981,
+        "title": "O Castro",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986031000",
+        "web": "http://www.resa.es/Residencias/O-Castro",
+        "subcategoria": "Residencia de estudiantes",
+        "idpoi": 10246,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.1709965
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.7176643232259, 42.2371879852373],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "García Barbón, 35",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo055.jpg",
+        "postcode": "36201",
+        "description": "El Hotel Atlántico es un moderno y funcional hotel anclado en el centro de la ciudad de Vigo.",
+        "lon": -8.7176643232259,
+        "title": "Atlántico",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986220530",
+        "web": "www.hotelatlanticovigo.com",
+        "subcategoria": "Hotel de 2 estrellas",
+        "idpoi": 8283,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2371879852373
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.71986483512658, 42.240845223896],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Praza de Compostela",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo073.jpg",
+        "postcode": "36201",
+        "description": "Ubicado en un edificio histórico, conserva su imponente fachada catalogada. Ya en su interior totalmente reformado- el diseño de cada uno de sus espacios está marcado por líneas clásicas y orientales fusionadas con el vanguardismo más moderno.",
+        "lon": -8.71986483512658,
+        "title": "Gran Hotel Nagari",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986211111",
+        "web": "www.gruposolvidahoteles.com/spa/nagari_boutique_spa.php",
+        "subcategoria": "Hotel de 5 estrellas",
+        "idpoi": 8300,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.240845223896
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.72427957833081, 42.2387490821213],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Victoria, 6",
+        "image_uri": null,
+        "postcode": "36201",
+        "description": "En pleno centro comercial y a muy pocos metros del paseo marítimo donde se encuentra el Club nautico y Puerto Comercial.",
+        "lon": -8.72427957833081,
+        "title": "El Águila",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986431398",
+        "web": "www.hotelaguila.com",
+        "subcategoria": "Hotel de 1 estrella",
+        "idpoi": 8293,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2387490821213
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.7246151813054, 42.2400392950089],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Cánovas del Castillo, 28",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo052.jpg",
+        "postcode": "36202",
+        "description": "El AC Hotel Palacio Universal, construido a finales del siglo XIX y ubicado en el corazón de la ciudad. Se encuentra muy cerca del centro histórico y no muy lejos de la playa, del paseo marítimo y del centro de exposiciones.",
+        "lon": -8.7246151813054,
+        "title": "Ac Hotel Palacio Universal",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986449250",
+        "web": "www.espanol.marriott.com/hotels/travel/vgopa-ac-hotel-palacio-universal",
+        "subcategoria": "Hotel de 4 estrellas",
+        "idpoi": 8280,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2400392950089
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.72439602489276, 42.239720281362],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "García Olloqui, 5",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo064.jpg",
+        "postcode": "36201",
+        "description": "El hotel dispone de 30 habitaciones confortables equipadas con lo último en calidad y servicios, para hacerle de su alojamiento en nuestra ciudad una estancia agradable y satisfactoria.",
+        "lon": -8.72439602489276,
+        "title": "Compostela",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986228227",
+        "web": "www.hcompostela.com",
+        "subcategoria": "Hotel de 2 estrellas",
+        "idpoi": 8291,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.239720281362
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.74547999911297, 42.2191611706781],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Sanxenxo, 1",
+        "image_uri": null,
+        "postcode": "36209",
+        "description": "they have the most modern audio-visual facilities. Restaurant, snack bar, TV room, free car park. Wifi access in all the premises.",
+        "lon": -8.74547999911297,
+        "title": "Coia",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986201820",
+        "web": "www.hotelcoia.com/hotel-overview.html",
+        "subcategoria": "Hotel de 4 estrellas",
+        "idpoi": 8290,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2191611706781
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.72086138243071, 42.2401549247422],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Concepción Arenal, 5",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo062.jpg",
+        "postcode": "36201",
+        "description": "Amplias habitaciones dotadas de mesa de trabajo y conexión Wifi gratuita, parking, salones de reuniones y congresos así como una amplia carta de restauración.",
+        "lon": -8.72086138243071,
+        "title": "Ciudad de Vigo",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986227820",
+        "web": "www.ciudaddevigo.com",
+        "subcategoria": "Hotel de 4 estrellas",
+        "idpoi": 8289,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2401549247422
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.71500485130544, 42.2334741902694],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "México, 7",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo059.jpg",
+        "postcode": "36204",
+        "description": "El hotel está situado en pleno centro de la ciudad y cerca de las principales calles comerciales de la ciudad.",
+        "lon": -8.71500485130544,
+        "title": "Casablanca",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986482712",
+        "web": "www.hotelcasablancavigo.com",
+        "subcategoria": "Hotel de 2 estrellas",
+        "idpoi": 8286,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2334741902694
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.72184042125555, 42.2398594403046],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Pablo Morillo, 6",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo053.jpg",
+        "postcode": "36201",
+        "description": "Modernas y acogedoras instalaciones, servicio personalizado y de calidad y una situación estratégica en el centro de la ciudad.",
+        "lon": -8.72184042125555,
+        "title": "América",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986438922",
+        "web": "www.hotelamerica-vigo.com",
+        "subcategoria": "Hotel de 3 estrellas",
+        "idpoi": 8281,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2398594403046
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.7155813301487, 42.2329973817858],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "México, 22",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo060.jpg",
+        "postcode": "36204",
+        "description": "El hotel cuenta con 44 habitaciones.",
+        "lon": -8.7155813301487,
+        "title": "Celta",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986414699",
+        "web": "www.hotelceltavigo.com",
+        "subcategoria": "Hotel de 2 estrellas",
+        "idpoi": 8287,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2329973817858
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.71488069156882, 42.2368168044623],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "García Barbón, 42",
+        "image_uri": null,
+        "postcode": "36201",
+        "description": "rooms in the attic have a terrace.",
+        "lon": -8.71488069156882,
+        "title": "Canaima",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986430934",
+        "web": "www.hotelcanaimavigo.es",
+        "subcategoria": "Hotel de 2 estrellas",
+        "idpoi": 8285,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2368168044623
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.71733390962759, 42.2356284258673],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "María Berdiales, 22",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo056.jpg",
+        "postcode": "36203",
+        "description": "Hotel de reciente apertura ofrece desde su privilegiada ubicación en el centro de Vigo la posibilidad de poder visitar nuestra ciudad con toda comodidad.",
+        "lon": -8.71733390962759,
+        "title": "Axis Vigo",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986441112",
+        "web": "www.hotelaxisvigo.com",
+        "subcategoria": "Hotel de 4 estrellas",
+        "idpoi": 8284,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2356284258673
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.73490936382597, 42.219593675344],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "La Florida, 12",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo061.jpg",
+        "postcode": "36210",
+        "description": "Inaugurado en 1985 y reformado completamente en el 2005 se encuentra situado en la Plaza de América. Cuenta con plaza de gareje y las habiticiones gozan de todas las comodidades.",
+        "lon": -8.73490936382597,
+        "title": "Chipén",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986231281",
+        "web": "www.hotelchipen.com",
+        "subcategoria": "Hotel de 1 estrella",
+        "idpoi": 8288,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.219593675344
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.72577196996189, 42.2400482511174],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Avda. Cánovas del Castillo, 24",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo075.jpg",
+        "postcode": "36202",
+        "description": "El Sercotel Hotel Bahía de Vigo cuenta con 91 habitaciones elegantemente decoradas y equipadas con bañeras hidromasaje. Tiene Internet Wifi gratis en todas sus instalaciones.",
+        "lon": -8.72577196996189,
+        "title": "Husa Bahía de Vigo",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986226700",
+        "web": "www.hotelbahiadevigo.com",
+        "subcategoria": "Hotel de 4 estrellas",
+        "idpoi": 8302,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2400482511174
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.71278951192356, 42.2337550438392],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Vía Norte, 10",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo081.jpg",
+        "postcode": "36204",
+        "description": "Situado en el centro de Vigo, con maravillosas vistas sobre la Ría, el Hotel México se encuentra a un paso de la zona comercial y de ocio así como del casco histórico y el área portuaria.",
+        "lon": -8.71278951192356,
+        "title": "México",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986431666",
+        "web": "www.mexicohotel.com",
+        "subcategoria": "Hotel de 3 estrellas",
+        "idpoi": 8308,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2337550438392
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.72504024307929, 42.2389395257432],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Gamboa",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo095.jpg",
+        "postcode": "36201",
+        "description": "Estamos ubicados en el casco antiguo de la ciudad, a 50 metros del puerto deportivo y la Estación Marítima, en un edificio del siglo XIX, que hemos rehabilitado completamente dotándola de confort y funcionalidad.",
+        "lon": -8.72504024307929,
+        "title": "Puerta de Gamboa",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986227189",
+        "web": "www.hotelpuertagamboa.com",
+        "subcategoria": "Hotel de 2 estrellas",
+        "idpoi": 8321,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2389395257432
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.72491183778334, 42.238252944599],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Fermín Penzol, 14",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo094.jpg",
+        "postcode": "36202",
+        "description": "El hotel está situado en el centro de Vigo, a solo 100 metros del Puerto Marítimo y a 50 metros del Teatro García Barbon, al lado de la Estación de Ferrocarril Adif.",
+        "lon": -8.72491183778334,
+        "title": "Princesa",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986442013",
+        "web": "www.hotelprincesavigo.es",
+        "subcategoria": "Hotel de 1 estrella",
+        "idpoi": 8320,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.238252944599
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.76786260297968, 42.2213433239887],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Avda. Atlántida, 121",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo093.jpg",
+        "postcode": "36208",
+        "description": "El hotel dispone de 15 habitaciones.",
+        "lon": -8.76786260297968,
+        "title": "Playa Santa Baia",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986214133",
+        "web": null,
+        "subcategoria": "Hotel de 1 estrella",
+        "idpoi": 8319,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2213433239887
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.77648624749538, 42.2035767705844],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Avda. de Samil",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo092.jpg",
+        "postcode": "36212",
+        "description": "El hotel Playa de Vigo está situado enfrente de la playa de Samil, un amplio arenal con pinares con una longitud de casi 2 km, y 35 m de anchura media.",
+        "lon": -8.77648624749538,
+        "title": "Playa de Vigo",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986202020",
+        "web": "www.hotelplayadevigo.com",
+        "subcategoria": "Hotel de 1 estrella",
+        "idpoi": 8318,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2035767705844
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.76161059073016, 42.2237403627321],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Avda. Atlántida, 106",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo090.jpg",
+        "postcode": "36208",
+        "description": "El hotel se encuentra en un entorno incomparable junto a una playa situada a escasos kilómetros del centro de la ciudad. Ocupa dos edificios, un antiguo Pazo gallego totalmente reformado y un edificio de nueva construcción de ambiente contemporáneo.",
+        "lon": -8.76161059073016,
+        "title": "Pazo Los Escudos  Hotel Resort",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986820820",
+        "web": "www.pazolosescudos.com",
+        "subcategoria": "Hotel de 5 estrellas",
+        "idpoi": 8317,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2237403627321
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.71538428809984, 42.2347924776436],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Lepanto, 18",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo089.jpg",
+        "postcode": "36201",
+        "description": "Estratégicamente situado en el centro de la ciudad de Vigo, el Hotel Pantón es un establecimiento familiar que cuenta con parking propio y gratuito en el mismo edificio",
+        "lon": -8.71538428809984,
+        "title": "Pantón",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986224270",
+        "web": "www.hotelpanton.com",
+        "subcategoria": "Hotel de 1 estrella",
+        "idpoi": 8316,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2347924776436
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.7405934016528, 42.2157396852384],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Avda. La Florida, 60",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo074.jpg",
+        "postcode": "36210",
+        "description": "Ubicado en el corazón del distrito comercial junto a la Plaza de América, el Hesperia Vigo combina la ubicación ideal con comodidades de nivel superior. Dispone de 123 habitaciones, y acceso gratuíto a internet.",
+        "lon": -8.7405934016528,
+        "title": "Hesperia Vigo",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986296600",
+        "web": "www.hesperia.com",
+        "subcategoria": "Hotel de 4 estrellas",
+        "idpoi": 8301,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2157396852384
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.71578341618483, 42.234800884897],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Lepanto, 10",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo088.jpg",
+        "postcode": "36201",
+        "description": "Alojado en una construcción totalmente nueva, e inaugurado en 2006, el hotel Ogalia es un moderno establecimiento urbano, situado en el centro de Vigo, en plena zona comercial y de negocios de la ciudad.",
+        "lon": -8.71578341618483,
+        "title": "Ogalia",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986222228",
+        "web": "www.hotelogalia.es",
+        "subcategoria": "Hotel de 2 estrellas",
+        "idpoi": 8315,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.234800884897
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.73138564828254, 42.2047671042478],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Campos, s/n",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo087.jpg",
+        "postcode": "36213",
+        "description": "Dispone de 13 habitaciones",
+        "lon": -8.73138564828254,
+        "title": "O Pazo",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986236000",
+        "web": "www.residenciaopazo.com",
+        "subcategoria": "Hotel de 1 estrella",
+        "idpoi": 8314,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2047671042478
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.71748197090733, 42.2362948135475],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Uruguay, 19-21",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo077.jpg",
+        "postcode": "36201",
+        "description": "Hotel Junquera ofrece una situación inmejorable en pleno centro financiero de Vigo. Cuenta con sala de reuniones para 40 personas y dispone de 63 habitaciones.",
+        "lon": -8.71748197090733,
+        "title": "Junquera",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986434888",
+        "web": "www.hoteljunquera.com",
+        "subcategoria": "Hotel de 2 estrellas",
+        "idpoi": 8304,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2362948135475
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.74951414838685, 42.2222534778022],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "José de la Peña, 22",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo078.jpg",
+        "postcode": "36208",
+        "description": "El hotel dispone de 12 habitaciones con una capacidad  total de 24 plazas.",
+        "lon": -8.74951414838685,
+        "title": "La Suite",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986247664",
+        "web": "www.lasuitehotel.es",
+        "subcategoria": "Hotel de 2 estrellas",
+        "idpoi": 8305,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2222534778022
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.71520321696971, 42.234547303965],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Rúa Lepanto, 26",
+        "image_uri": null,
+        "postcode": "1º y 2º",
+        "description": "The hotel has forty-six rooms.",
+        "lon": -8.71520321696971,
+        "title": "Lino Vigo",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "36201",
+        "web": "986439311",
+        "subcategoria": "Hotel de 2 estrellas",
+        "idpoi": 8306,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.234547303965
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.72093311860883, 42.239894341399],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Luis Taboada, 34",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo080.jpg",
+        "postcode": "36201",
+        "description": "En pleno centro financiero y comercial de la ciudad de Vigo, junto al club Náutico y al paseo marítimo, próximo al casco antiguo y con fácil acceso a las playas se encuentra el hotel del mar.",
+        "lon": -8.72093311860883,
+        "title": "Mar, Del",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986436811",
+        "web": "www.hotel-del-mar.com",
+        "subcategoria": "Hotel de 1 estrella",
+        "idpoi": 8307,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.239894341399
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.75264589929514, 42.2096683398417],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Cañiza, 41",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo082.jpg",
+        "postcode": "36213",
+        "description": "El hotel dispone de 55 habitaciones con una capacidad  total de 110 plazas.",
+        "lon": -8.75264589929514,
+        "title": "Motel Caribe",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986238484",
+        "web": "www.motelcaribe.es",
+        "subcategoria": "Hotel de 3 estrellas",
+        "idpoi": 8309,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2096683398417
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.72140334672488, 42.2398923926431],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Luis Taboada, 28",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo083.jpg",
+        "postcode": "36201",
+        "description": "En pleno centro comercial y a muy pocos metros del paseo marítimo donde se encuentra el Club Náutico y Puerto Comercial. Dispone de un Parking a 30 metros del Hotel.",
+        "lon": -8.72140334672488,
+        "title": "Náutico",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986122440",
+        "web": "www.hotelnautico.net",
+        "subcategoria": "Hotel de 1 estrella",
+        "idpoi": 8310,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2398923926431
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.71479010122542, 42.2317513223495],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Vázquez Varela, 31",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo008.jpg",
+        "postcode": "36204",
+        "description": "Cuenta con 60 habitaciones renovadas en enero de 2011. Especializado en clientes de empresa, sus instalaciones disponen de wifi gratuíto.",
+        "lon": -8.71479010122542,
+        "title": "Ipanema",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986471344",
+        "web": "www.hotelipanema.com",
+        "subcategoria": "Hotel de 3 estrellas",
+        "idpoi": 8236,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2317513223495
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.71590137723012, 42.2347263889189],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Lepanto, 8",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo007.jpg",
+        "postcode": "36201",
+        "description": "El Hotel Argentino es un nuevo establecimiento en Vigo con todas las ventajas que ello supone: impecable y moderno en su equipamiento, en su mobiliario y en su diseño.",
+        "lon": -8.71590137723012,
+        "title": "Argentino",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986443247",
+        "web": "www.hotelargentino.es",
+        "subcategoria": "Hotel de 1 estrella",
+        "idpoi": 8235,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2347263889189
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.71630422916759, 42.2343313426205],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Gran Vía, 1",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo006.jpg",
+        "postcode": "36204",
+        "description": "Dispone de 99 habitaciones.",
+        "lon": -8.71630422916759,
+        "title": "Zénit Vigo",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986417255",
+        "web": "www.zenithoteles.com",
+        "subcategoria": "Hotel de 3 estrellas",
+        "idpoi": 8234,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2343313426205
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.7176606920481, 42.2280127853506],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Avda. de Madrid, 21",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo005.jpg",
+        "postcode": "32604",
+        "description": "El Tryp Los Galeones, está situado en el centro de Vigo. En la principal entrada a la ciudad por el acceso de Madrid N-120. A poca distancia de los puntos turísticos de mayor interés del casco urbano.",
+        "lon": -8.7176606920481,
+        "title": "Tryp Los Galeones",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986480405",
+        "web": "www.galeones.com",
+        "subcategoria": "Hotel de 4 estrellas",
+        "idpoi": 8233,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2280127853506
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.71654899326392, 42.2326516695984],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Cuba, 19",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo004.jpg",
+        "postcode": "36204",
+        "description": "El Sercotel Hotel Tres Luces es un elegante y confortable hotel en Vigo ubicado a pocos metros de la Estación de Trenes, en pleno núcleo financiero y comercial y a pocos minutos del centro histórico de Vigo.",
+        "lon": -8.71654899326392,
+        "title": "Tres Luces, Las",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986480250",
+        "web": "www.hotel3luces.com",
+        "subcategoria": "Hotel de 3 estrellas",
+        "idpoi": 8232,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2326516695984
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [-8.72601112786843, 42.2381420065331],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "address": "Puerta del Sol, 14",
+        "image_uri": "http://www.turismodevigo.org/sites/turismodevigo/files/alo001.jpg",
+        "postcode": "36202",
+        "description": "El Puerta del Sol es un Hotel en situado en pleno centro histórico de Vigo, un nuevo concepto en hoteles de ciudad, construido en un edificio restaurado del siglo XIX y renovado recientemente.",
+        "lon": -8.72601112786843,
+        "title": "Puerta del Sol",
+        "type": 14,
+        "layer": "alojamientos",
+        "phone": "986222364",
+        "web": "www.alojamientosvigo.com/spa/hotel_habitaciones.php",
+        "subcategoria": "Hotel de 2 estrellas",
+        "idpoi": 8229,
+        "mp3_uri": null,
+        "lang": "es-ES",
+        "lat": 42.2381420065331
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

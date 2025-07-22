@@ -1,0 +1,136 @@
+    <!DOCTYPE html>
+<html lang="es">
+    <!-- Datos GeoJSON obtenidos de https://datos-ckan.vigo.org/dataset/ --><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejemplo 1</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="leaflet.awesome-markers.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script src="leaflet.awesome-markers.min.js"></script>
+    <style>
+      #mapa {
+        height: 500px;
+      }
+      i {
+        position: relative;
+      }
+      span {
+        position: absolute;
+        display: none;
+        background-color: rgb(24, 135, 232);
+        padding: 0.3rem 0.5rem;
+        top: calc(100% + 10px);
+        left: 0;
+        z-index: 2000; /* el mapa tiene un z-index alto */
+        box-shadow: 2px 2px 2px black;
+        font-style: normal;
+      }
+      i:hover span {
+        display: block;
+      }
+    </style>
+  </head>
+  <body class="">
+    <header class="bg-black text-white text-center p-2">
+      <h1>Puntos de interés</h1>
+      <div class="d-flex gap-3">
+        <i class="bi bi-droplet-fill bg-success px-4 py-2 rounded-2" id="fuentes"><span>Fuentes</span></i>
+        <i class="bi bi-camera-reels-fill bg-primary px-4 py-2 rounded-2" id="cines"><span>Cines</span></i>
+        <i class="bi bi-book-fill bg-warning px-4 py-2 rounded-2" id="bibliotecas"><span>Bibliotecas</span></i>
+        <i class="bi bi-house-fill bg-danger px-4 py-2 rounded-2" id="hoteles"><span>Hoteles</span></i>
+      </div>
+    </header>
+
+    <div id="mapa" class="leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom" tabindex="0" style="position: relative; outline-style: none;"><div class="leaflet-pane leaflet-map-pane" style="transform: translate3d(3942px, -1197px, 0px);"><div class="leaflet-pane leaflet-tile-pane"><div class="leaflet-layer " style="z-index: 1; opacity: 1;"><div class="leaflet-tile-container leaflet-zoom-animated" style="z-index: 18; transform: translate3d(3142px, -1728px, 0px) scale(2);"></div><div class="leaflet-tile-container leaflet-zoom-animated" style="z-index: 19; transform: translate3d(3142px, -1728px, 0px) scale(1);"><img alt="" src="https://tile.openstreetmap.org/19/249425/194176.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-7240px, 3064px, 0px); opacity: 1;"><img alt="" src="https://tile.openstreetmap.org/19/249426/194176.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-6984px, 3064px, 0px); opacity: 1;"><img alt="" src="https://tile.openstreetmap.org/19/249425/194175.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-7240px, 2808px, 0px); opacity: 1;"><img alt="" src="https://tile.openstreetmap.org/19/249426/194175.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-6984px, 2808px, 0px); opacity: 1;"><img alt="" src="https://tile.openstreetmap.org/19/249425/194177.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-7240px, 3320px, 0px); opacity: 1;"><img alt="" src="https://tile.openstreetmap.org/19/249426/194177.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-6984px, 3320px, 0px); opacity: 1;"><img alt="" src="https://tile.openstreetmap.org/19/249424/194176.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-7496px, 3064px, 0px); opacity: 1;"><img alt="" src="https://tile.openstreetmap.org/19/249427/194176.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-6728px, 3064px, 0px); opacity: 1;"><img alt="" src="https://tile.openstreetmap.org/19/249424/194175.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-7496px, 2808px, 0px); opacity: 1;"><img alt="" src="https://tile.openstreetmap.org/19/249427/194175.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-6728px, 2808px, 0px); opacity: 1;"><img alt="" src="https://tile.openstreetmap.org/19/249424/194177.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-7496px, 3320px, 0px); opacity: 1;"><img alt="" src="https://tile.openstreetmap.org/19/249427/194177.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-6728px, 3320px, 0px); opacity: 1;"><img alt="" src="https://tile.openstreetmap.org/19/249423/194176.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-7752px, 3064px, 0px); opacity: 1;"><img alt="" src="https://tile.openstreetmap.org/19/249428/194176.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-6472px, 3064px, 0px); opacity: 1;"><img alt="" src="https://tile.openstreetmap.org/19/249423/194175.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-7752px, 2808px, 0px); opacity: 1;"><img alt="" src="https://tile.openstreetmap.org/19/249428/194175.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-6472px, 2808px, 0px); opacity: 1;"><img alt="" src="https://tile.openstreetmap.org/19/249423/194177.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-7752px, 3320px, 0px); opacity: 1;"><img alt="" src="https://tile.openstreetmap.org/19/249428/194177.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-6472px, 3320px, 0px); opacity: 1;"><img alt="" src="https://tile.openstreetmap.org/19/249422/194176.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-8008px, 3064px, 0px); opacity: 1;"><img alt="" src="https://tile.openstreetmap.org/19/249429/194176.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-6216px, 3064px, 0px); opacity: 1;"><img alt="" src="https://tile.openstreetmap.org/19/249422/194175.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-8008px, 2808px, 0px); opacity: 1;"><img alt="" src="https://tile.openstreetmap.org/19/249429/194175.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-6216px, 2808px, 0px); opacity: 1;"><img alt="" src="https://tile.openstreetmap.org/19/249422/194177.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-8008px, 3320px, 0px); opacity: 1;"><img alt="" src="https://tile.openstreetmap.org/19/249429/194177.png" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-6216px, 3320px, 0px); opacity: 1;"></div></div></div><div class="leaflet-pane leaflet-overlay-pane"></div><div class="leaflet-pane leaflet-shadow-pane"></div><div class="leaflet-pane leaflet-marker-pane"></div><div class="leaflet-pane leaflet-tooltip-pane"></div><div class="leaflet-pane leaflet-popup-pane"></div><div class="leaflet-proxy leaflet-zoom-animated" style="transform: translate3d(6.38531e+07px, 4.97092e+07px, 0px) scale(262144);"></div></div><div class="leaflet-control-container"><div class="leaflet-top leaflet-left"><div class="leaflet-control-zoom leaflet-bar leaflet-control"><a class="leaflet-control-zoom-in leaflet-disabled" href="#" title="Zoom in" role="button" aria-label="Zoom in" aria-disabled="true"><span aria-hidden="true">+</span></a><a class="leaflet-control-zoom-out" href="#" title="Zoom out" role="button" aria-label="Zoom out" aria-disabled="false"><span aria-hidden="true">−</span></a></div></div><div class="leaflet-top leaflet-right"></div><div class="leaflet-bottom leaflet-left"></div><div class="leaflet-bottom leaflet-right"><div class="leaflet-control-attribution leaflet-control"><a href="https://leafletjs.com" title="A JavaScript library for interactive maps"><svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="12" height="8" viewBox="0 0 12 8" class="leaflet-attribution-flag"><path fill="#4C7BE1" d="M0 0h12v4H0z"></path><path fill="#FFD500" d="M0 4h12v3H0z"></path><path fill="#E0BC00" d="M0 7h12v1H0z"></path></svg> Leaflet</a> <span aria-hidden="true">|</span> © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a></div></div></div></div>
+    <div id="datos" class="d-flex gap-2 justify-content-center p-2 flex-wrap"></div>
+    <script>
+      const mapa = L.map("mapa").setView(L.latLng(42.23282, -8.72534), 13);
+
+      L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        maxZoom: 19,
+        attribution:
+          '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+      }).addTo(mapa);
+
+      function moverMapa(evt) {
+        const e = evt.currentTarget;
+        mapa.setView([e.dataset.latitud, e.dataset.longitud], 18);
+      }
+
+      function mostrarDatos(datos) {
+        const div = document.getElementById("datos");
+        div.textContent = "";
+        for (const dato of datos.features) {
+          const d = document.createElement("div");
+          let p = document.createElement("p");
+          //  operador ?? (nullish coalescing En hoteles es title
+          p.textContent = dato.properties.nombre ?? dato.properties.title;
+          p.classList.add("h5", "bg-info", "rounded-2", "p-2");
+          // EN GeoJSON va primero la longitud
+          p.dataset.latitud = dato.geometry.coordinates[1];
+          p.dataset.longitud = dato.geometry.coordinates[0];
+          p.addEventListener("click", moverMapa);
+          d.appendChild(p);
+          div.appendChild(d);
+        }
+      }
+
+      function cargarPuntos(nombre, archivo, icono) {
+        let cines = [];
+        fetch("json/" + archivo)
+          .then((xhr) => xhr.json())
+          .then((datos) => {
+            verPuntos(datos, icono);
+            mostrarDatos(datos);
+          })
+          .catch((e) => console.log(e));
+
+       
+      }
+
+
+
+
+       function verPuntos(puntos, nombreIcono) {
+              mapa.eachLayer((layer) => {
+              // Comprobamos si la capa es un marcador
+              if (layer instanceof L.Marker) {
+                  layer.remove();
+              }
+          });
+          const icono = L.AwesomeMarkers.icon({
+            //icon: "camera-reels-fill",
+            //icon: "book-fill",
+            icon: nombreIcono,
+            prefix: "bi",
+            markerColor: "#ff0",
+            iconColor: "white",
+          });
+
+          L.geoJSON(puntos, {
+            pointToLayer: function (feature, latlng) {
+              return L.marker(latlng, { icon: icono }); // Suponemos que hemos creado un icono con este nombre
+            },
+            onEachFeature: function (feature, layer) {
+              let mensaje = `<p>${feature.properties.nombre ?? feature.properties.title}</p>`;
+              if(feature.properties.web) {
+                const url = feature.properties.web.startsWith("http") ? feature.properties.web : "http://" + feature.properties.web;
+                mensaje += `<a href='${url}'>visitar</a>`;
+              }
+              layer.bindPopup(mensaje);
+            },
+          }).addTo(mapa);
+        }
+
+      document.getElementById("hoteles").addEventListener("click", () => cargarPuntos("hoteles", "hoteles.geojson", "bi-house-fill"));
+      document.getElementById("fuentes").addEventListener("click", () => cargarPuntos("fuentes", "fuentes.geojson", "bi-droplet-fill"));
+      document.getElementById("bibliotecas").addEventListener("click", () => cargarPuntos("bibliotecas", "bibliotecas.geojson", "bi-book-fill"));
+      document.getElementById("cines").addEventListener("click", () => cargarPuntos("cines", "cines.geojson", "bi-camera-fill"));
+
+    </script>
+  
+
+</body></html>
