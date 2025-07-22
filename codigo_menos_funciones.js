@@ -72,13 +72,16 @@ L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
 
 document.getElementById("cines")
     .addEventListener("click", 
-        () => obtener("json/cines.geojson", "camera-reels-fill", "blue" ));
+        () => obtener("json/cines.geojson", "camera-reels-fill", "darkblue" ));
 document.getElementById("hoteles").addEventListener("click", 
         () => obtener("json/hoteles.geojson", "house-fill", "red" ));
 document.getElementById("bibliotecas").addEventListener("click",
         () => obtener("json/bibliotecas.geojson", "book-fill", "orange" ));
 document.getElementById("fuentes").addEventListener("click", 
        () => obtener("json/fuentes.geojson", "droplet-fill", "green" ));
+document.getElementById("centros").addEventListener("click", 
+       () => obtener("json/centros.geojson", "building-fill", "blue" ));
     
+
 
 

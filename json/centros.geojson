@@ -1,0 +1,5647 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73022,
+                    42.23345
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36202",
+                "tipo_es": "Conservatorios de Música (CEMU/CMUS)",
+                "numero": 61,
+                "calle": "RUA PI Y MARGALL",
+                "lon": -8.73022,
+                "tipo_gl": "Conservatorios de Música (CEMU/CMUS)",
+                "nombre": "CEMU Profesional Coppelia",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5204,
+                "id_tipo": 355,
+                "telefono": "986222930",
+                "lat": 42.23345
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.71158,
+                    42.23879
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": null,
+                "codigo_postal": "36201",
+                "tipo_es": "Conservatorios de Música (CEMU/CMUS)",
+                "numero": 118,
+                "calle": "RUA AREAL",
+                "lon": -8.71158,
+                "tipo_gl": "Conservatorios de Música (CEMU/CMUS)",
+                "nombre": "CEMU Profesional Mayeusis",
+                "web": null,
+                "parroquia": null,
+                "id": 5205,
+                "id_tipo": 355,
+                "telefono": "986226378",
+                "lat": 42.23879
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.71158,
+                    42.23879
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": null,
+                "codigo_postal": "36201",
+                "tipo_es": "Conservatorios de Música (CEMU/CMUS)",
+                "numero": 118,
+                "calle": "RUA AREAL",
+                "lon": -8.71158,
+                "tipo_gl": "Conservatorios de Música (CEMU/CMUS)",
+                "nombre": "CEMU Superior Mayeusis",
+                "web": null,
+                "parroquia": null,
+                "id": 5206,
+                "id_tipo": 355,
+                "telefono": null,
+                "lat": 42.23879
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.74017,
+                    42.21647
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36209",
+                "tipo_es": "Conservatorios de Música (CEMU/CMUS)",
+                "numero": null,
+                "calle": "RUA FOTOGRAFO FELIPE PROSPERI",
+                "lon": -8.74017,
+                "tipo_gl": "Conservatorios de Música (CEMU/CMUS)",
+                "nombre": "CMUS Profesional de Vigo",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5207,
+                "id_tipo": 355,
+                "telefono": "986213395",
+                "lat": 42.21647
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72357,
+                    42.22923
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36203",
+                "tipo_es": "Conservatorios de Música (CEMU/CMUS)",
+                "numero": 23,
+                "calle": "RUA MANUEL OLIVIE",
+                "lon": -8.72357,
+                "tipo_gl": "Conservatorios de Música (CEMU/CMUS)",
+                "nombre": "CMUS Superior de Vigo",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5208,
+                "id_tipo": 355,
+                "telefono": "986471144",
+                "lat": 42.22923
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72281,
+                    42.16156
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "GARRIDA",
+                "codigo_postal": "36315",
+                "tipo_es": "Centro Autorizado de Deportes (CAD)",
+                "numero": 28,
+                "calle": "CMÑO ESCOLA ANDERSEN",
+                "lon": -8.72281,
+                "tipo_gl": "Centro Autorizado de Deportes (CAD)",
+                "nombre": "CAD ACADEF (Escuela de Entrenadores de Fútbol)",
+                "web": null,
+                "parroquia": "VALADARES",
+                "id": 5209,
+                "id_tipo": 356,
+                "telefono": "606198166",
+                "lat": 42.16156
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.71355,
+                    42.23242
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36204",
+                "tipo_es": "Centro Autorizado de Deportes (CAD)",
+                "numero": 48,
+                "calle": "RUA BRASIL",
+                "lon": -8.71355,
+                "tipo_gl": "Centro Autorizado de Deportes (CAD)",
+                "nombre": "CAD CIP",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5210,
+                "id_tipo": 356,
+                "telefono": "986472211",
+                "lat": 42.23242
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.69346,
+                    42.21406
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "GANDARIÑA",
+                "codigo_postal": "36214",
+                "tipo_es": "Centro Autorizado de Deportes (CAD)",
+                "numero": 84,
+                "calle": "RUA PAZ PARDO",
+                "lon": -8.69346,
+                "tipo_gl": "Centro Autorizado de Deportes (CAD)",
+                "nombre": "CAD Montecastelo",
+                "web": null,
+                "parroquia": "LAVADORES",
+                "id": 5211,
+                "id_tipo": 356,
+                "telefono": "986412488",
+                "lat": 42.21406
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.71545,
+                    42.22355
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "RAVISO",
+                "codigo_postal": "36204",
+                "tipo_es": "Centro Autorizado de Deportes (CAD)",
+                "numero": 46,
+                "calle": "RUA CARBALLO",
+                "lon": -8.71545,
+                "tipo_gl": "Centro Autorizado de Deportes (CAD)",
+                "nombre": "CADFS Constantino Castro Ruso (Fútbol Sala)",
+                "web": null,
+                "parroquia": "SARDOMA",
+                "id": 5212,
+                "id_tipo": 356,
+                "telefono": "981134238",
+                "lat": 42.22355
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73761,
+                    42.20109
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "IGREXA",
+                "codigo_postal": "36213",
+                "tipo_es": "Centro Privado estranjero (CPREX)",
+                "numero": 10,
+                "calle": "CMÑO REAL (MATAMA)",
+                "lon": -8.73761,
+                "tipo_gl": "Centro Privado estranxeiro (CPREX)",
+                "nombre": "CPREX Eleven School",
+                "web": "https://elevenschool.com",
+                "parroquia": "MATAMA",
+                "id": 5213,
+                "id_tipo": 357,
+                "telefono": "672077780",
+                "lat": 42.20109
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.69955,
+                    42.22852
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "BAGUNDA",
+                "codigo_postal": "36205",
+                "tipo_es": "Escola Oficial de Idiomas (EOI)",
+                "numero": 17,
+                "calle": "AVDA E. MTNEZ GARRIDO- ALCALDE",
+                "lon": -8.69955,
+                "tipo_gl": "Escola Oficial de Idiomas (EOI)",
+                "nombre": "EOI de Vigo",
+                "web": null,
+                "parroquia": "LAVADORES",
+                "id": 5215,
+                "id_tipo": 358,
+                "telefono": "986260261",
+                "lat": 42.22852
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73215,
+                    42.23372
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36202",
+                "tipo_es": "Centro Público de Educación y Promoción de Adultos",
+                "numero": 8,
+                "calle": "RUA MARQUES DE VALTERRA",
+                "lon": -8.73215,
+                "tipo_gl": "Centro Público de Educación e Promoción de Adultos",
+                "nombre": "EPAPU Berbés",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5216,
+                "id_tipo": 359,
+                "telefono": "886110976",
+                "lat": 42.23372
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.75924,
+                    42.20879
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": null,
+                "codigo_postal": "36213",
+                "tipo_es": "Escuela Superior de Arte Dramática (ESAD)",
+                "numero": null,
+                "calle": "RUA POZA CABALO",
+                "lon": -8.75924,
+                "tipo_gl": "Escola Superior de Arte Dramática (ESAD)",
+                "nombre": "ESAD Escola Superior de Arte Dramática de Galicia",
+                "web": null,
+                "parroquia": null,
+                "id": 5217,
+                "id_tipo": 360,
+                "telefono": "986246399",
+                "lat": 42.20879
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.67711,
+                    42.16972
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "MARCOSENDE",
+                "codigo_postal": "36310",
+                "tipo_es": "Universidad",
+                "numero": 0,
+                "calle": "CTRA MARCOSENDE",
+                "lon": -8.67711,
+                "tipo_gl": "Universidade",
+                "nombre": "Facultade de Filoloxía e Traducción",
+                "web": "http://fft.uvigo.es",
+                "parroquia": "ZAMANS",
+                "id": 361,
+                "id_tipo": 73,
+                "telefono": "986812251",
+                "lat": 42.16972
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.68131,
+                    42.16831
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "MARCOSENDE",
+                "codigo_postal": "36310",
+                "tipo_es": "Universidad",
+                "numero": 0,
+                "calle": "CTRA MARCOSENDE",
+                "lon": -8.68131,
+                "tipo_gl": "Universidade",
+                "nombre": "Facultade de Ciencias Xurídicas e do Traballo",
+                "web": "http://fccxxt.webs.uvigo.es/gl/",
+                "parroquia": "ZAMANS",
+                "id": 362,
+                "id_tipo": 73,
+                "telefono": "986814010",
+                "lat": 42.16831
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.68082,
+                    42.17035
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "MARCOSENDE",
+                "codigo_postal": "36310",
+                "tipo_es": "Universidad",
+                "numero": 0,
+                "calle": "CTRA MARCOSENDE",
+                "lon": -8.68082,
+                "tipo_gl": "Universidade",
+                "nombre": "Facultade de Ciencias Económicas e Empresariais",
+                "web": "http://fccee.uvigo.es",
+                "parroquia": "ZAMANS",
+                "id": 363,
+                "id_tipo": 73,
+                "telefono": "986812400",
+                "lat": 42.17035
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.68455,
+                    42.16819
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "MARCOSENDE",
+                "codigo_postal": "36310",
+                "tipo_es": "Universidad",
+                "numero": 0,
+                "calle": "CTRA MARCOSENDE",
+                "lon": -8.68455,
+                "tipo_gl": "Universidade",
+                "nombre": "Facultade de Química",
+                "web": "http://quimica.uvigo.es/",
+                "parroquia": "ZAMANS",
+                "id": 364,
+                "id_tipo": 73,
+                "telefono": "986812696",
+                "lat": 42.16819
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.68480,
+                    42.16808
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "MARCOSENDE",
+                "codigo_postal": "36310",
+                "tipo_es": "Universidad",
+                "numero": 0,
+                "calle": "CTRA MARCOSENDE",
+                "lon": -8.68480,
+                "tipo_gl": "Universidade",
+                "nombre": "Facultade de Ciencias do Mar",
+                "web": "http://mar.uvigo.es",
+                "parroquia": "ZAMANS",
+                "id": 365,
+                "id_tipo": 73,
+                "telefono": "986812550",
+                "lat": 42.16808
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.68552,
+                    42.16744
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "MARCOSENDE",
+                "codigo_postal": "36310",
+                "tipo_es": "Universidad",
+                "numero": 0,
+                "calle": "CTRA MARCOSENDE",
+                "lon": -8.68552,
+                "tipo_gl": "Universidade",
+                "nombre": "Facultade de Bioloxía",
+                "web": "http://bioloxia.uvigo.es",
+                "parroquia": "ZAMANS",
+                "id": 366,
+                "id_tipo": 73,
+                "telefono": "986811976",
+                "lat": 42.16744
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.68839,
+                    42.16877
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "MARCOSENDE",
+                "codigo_postal": "36310",
+                "tipo_es": "Universidad",
+                "numero": 0,
+                "calle": "RUA MAXWELL",
+                "lon": -8.68839,
+                "tipo_gl": "Universidade",
+                "nombre": "Escola de Enxeñaría de Minas e Enerxía",
+                "web": "http://minaseenerxia.uvigo.es/gl/",
+                "parroquia": "ZAMANS",
+                "id": 368,
+                "id_tipo": 73,
+                "telefono": "986811930",
+                "lat": 42.16877
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.68813,
+                    42.17005
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "MARCOSENDE",
+                "codigo_postal": "36310",
+                "tipo_es": "Universidad",
+                "numero": 0,
+                "calle": "CTRA MARCOSENDE",
+                "lon": -8.68813,
+                "tipo_gl": "Universidade",
+                "nombre": "ETS de Enxeñeiros de Telecomunicacións",
+                "web": "http://teleco.uvigo.es",
+                "parroquia": "ZAMANS",
+                "id": 369,
+                "id_tipo": 73,
+                "telefono": "986812100",
+                "lat": 42.17005
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73461,
+                    42.22722
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36208",
+                "tipo_es": "Universidad",
+                "numero": 86,
+                "calle": "RUA CONDE TORRECEDEIRA",
+                "lon": -8.73461,
+                "tipo_gl": "Universidade",
+                "nombre": "Escola de Enxeñería Industrial (Sede Cidade)",
+                "web": "http://eei.uvigo.es/",
+                "parroquia": "VIGO",
+                "id": 5238,
+                "id_tipo": 73,
+                "telefono": "986813688",
+                "lat": 42.22722
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.68928,
+                    42.16823
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": null,
+                "codigo_postal": "36310",
+                "tipo_es": "Universidad",
+                "numero": null,
+                "calle": "RUA MAXWELL",
+                "lon": -8.68928,
+                "tipo_gl": "Universidade",
+                "nombre": "Escola de Enxeñería Industrial (Sede Campus)",
+                "web": "http://eei.uvigo.es/",
+                "parroquia": null,
+                "id": 5239,
+                "id_tipo": 73,
+                "telefono": "986812200",
+                "lat": 42.16823
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.68398,
+                    42.16731
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": null,
+                "codigo_postal": null,
+                "tipo_es": "Universidad",
+                "numero": null,
+                "calle": "CTRA MARCOSENDE",
+                "lon": -8.68398,
+                "tipo_gl": "Universidade",
+                "nombre": "Centro de Apoio Científico e Tecnolóxico á Investigación (CACTI)",
+                "web": "http://cactiweb.webs.uvigo.es/Joomla/index.php/gl/",
+                "parroquia": null,
+                "id": 5240,
+                "id_tipo": 73,
+                "telefono": "986812118",
+                "lat": 42.16731
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.68398,
+                    42.16731
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": null,
+                "codigo_postal": null,
+                "tipo_es": "Universidad",
+                "numero": null,
+                "calle": "CTRA MARCOSENDE",
+                "lon": -8.68398,
+                "tipo_gl": "Universidade",
+                "nombre": "Centro de Investigacións Biomédicas (CINBIO)",
+                "web": "http://cinbio.es/gl/portada/",
+                "parroquia": null,
+                "id": 5241,
+                "id_tipo": 73,
+                "telefono": "986812118",
+                "lat": 42.16731
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.68398,
+                    42.16731
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": null,
+                "codigo_postal": null,
+                "tipo_es": "Universidad",
+                "numero": null,
+                "calle": "CTRA MARCOSENDE",
+                "lon": -8.68398,
+                "tipo_gl": "Universidade",
+                "nombre": "Centro de Investigación Tecnolóxico Industrial (MTI)",
+                "web": "http://mti.uvigo.es/",
+                "parroquia": null,
+                "id": 5242,
+                "id_tipo": 73,
+                "telefono": "986130153",
+                "lat": 42.16731
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.80076,
+                    42.20177
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": null,
+                "codigo_postal": null,
+                "tipo_es": "Universidad",
+                "numero": null,
+                "calle": null,
+                "lon": -8.80076,
+                "tipo_gl": "Universidade",
+                "nombre": "Estación de Ciencias Mariñas de Toralla (ECIMAT)",
+                "web": "https://ecimat.uvigo.es/es/",
+                "parroquia": null,
+                "id": 5245,
+                "id_tipo": 73,
+                "telefono": "986815700",
+                "lat": 42.20177
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.68654,
+                    42.21369
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": null,
+                "codigo_postal": null,
+                "tipo_es": "Universidad",
+                "numero": null,
+                "calle": "CMÑO MEIXUEIRO",
+                "lon": -8.68654,
+                "tipo_gl": "Universidade",
+                "nombre": "EU de Enfermaría (Meixoeiro) (Centro adscrito público)",
+                "web": "http://enfermeriameixoeiro.uvigo.es/index.php/es/",
+                "parroquia": null,
+                "id": 5246,
+                "id_tipo": 73,
+                "telefono": "986811152",
+                "lat": 42.21369
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72908,
+                    42.22738
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36211",
+                "tipo_es": "Universidad",
+                "numero": 75,
+                "calle": "RUA ROMIL",
+                "lon": -8.72908,
+                "tipo_gl": "Universidade",
+                "nombre": "EU de Enfermaría (Povisa)",
+                "web": "http://www.cepovisa.com",
+                "parroquia": "VIGO",
+                "id": 5247,
+                "id_tipo": 73,
+                "telefono": "986472058",
+                "lat": 42.22738
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.69953,
+                    42.21465
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "LAMEIRO",
+                "codigo_postal": "36214",
+                "tipo_es": "Universidad",
+                "numero": 8,
+                "calle": "CTRA MADRID",
+                "lon": -8.69953,
+                "tipo_gl": "Universidade",
+                "nombre": "Escola Universitaria de Maxisterio \"María Sedes Sapientiae\"",
+                "web": "http://www.escuelamagisterioceuvigo.es/",
+                "parroquia": "SARDOMA",
+                "id": 5248,
+                "id_tipo": 73,
+                "telefono": "986414498",
+                "lat": 42.21465
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.71307,
+                    42.22500
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36204",
+                "tipo_es": "Universidad",
+                "numero": 60,
+                "calle": "AVDA MADRID",
+                "lon": -8.71307,
+                "tipo_gl": "Universidade",
+                "nombre": "Instituto de Educación Superior Intercontinental de la Empresa (IESIDE)",
+                "web": "https://www.ieside.edu/",
+                "parroquia": "VIGO",
+                "id": 5249,
+                "id_tipo": 73,
+                "telefono": "986493252",
+                "lat": 42.22500
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.66969,
+                    42.22190
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "SELLO",
+                "codigo_postal": "36215",
+                "tipo_es": "Centro de Estudios Artísticos y Técnicos (CE.ART)",
+                "numero": 9,
+                "calle": "AVDA PONTE (CABRAL)",
+                "lon": -8.66969,
+                "tipo_gl": "Centro de Estudios Artísticos e Técnicos (CE.ART)",
+                "nombre": "CE.ART Atlántico",
+                "web": "http://www.escuelatlantico.com",
+                "parroquia": "CABRAL",
+                "id": 1854,
+                "id_tipo": 203,
+                "telefono": "986266058",
+                "lat": 42.22190
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.66939,
+                    42.21494
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "FONTIÑAS",
+                "codigo_postal": "36215",
+                "tipo_es": "Centro de Estudios Artísticos y Técnicos (CE.ART)",
+                "numero": 80,
+                "calle": "AVDA PONTE",
+                "lon": -8.66939,
+                "tipo_gl": "Centro de Estudios Artísticos e Técnicos (CE.ART)",
+                "nombre": "CE.ART Marcote",
+                "web": null,
+                "parroquia": "CABRAL",
+                "id": 5152,
+                "id_tipo": 203,
+                "telefono": "986266013",
+                "lat": 42.21494
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73011,
+                    42.22572
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36211",
+                "tipo_es": "Centro de Estudios Artísticos y Técnicos (CE.ART)",
+                "numero": 4,
+                "calle": "RUA OURENSE",
+                "lon": -8.73011,
+                "tipo_gl": "Centro de Estudios Artísticos e Técnicos (CE.ART)",
+                "nombre": "CE.ART Aula D",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 4620,
+                "id_tipo": 203,
+                "telefono": "986214076",
+                "lat": 42.22572
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.71023,
+                    42.17554
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "PORTAL",
+                "codigo_postal": "36314",
+                "tipo_es": "Centro de Estudios Artísticos y Técnicos (CE.ART)",
+                "numero": 0,
+                "calle": "CTRA VALADARES",
+                "lon": -8.71023,
+                "tipo_gl": "Centro de Estudios Artísticos e Técnicos (CE.ART)",
+                "nombre": "CE.ART Tex-Moda",
+                "web": "http://www.texmoda.es/",
+                "parroquia": "VALADARES",
+                "id": 4739,
+                "id_tipo": 203,
+                "telefono": "986223620",
+                "lat": 42.17554
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.63857,
+                    42.23814
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "CARBALLAL",
+                "codigo_postal": "36318",
+                "tipo_es": "Centro de Educación Especial (CEEPR)",
+                "numero": 60,
+                "calle": "RUA CARBALLAL (CABRAL)",
+                "lon": -8.63857,
+                "tipo_gl": "Centro de Educación Especial (CEEPR)",
+                "nombre": "CEE Saladino Cortizo",
+                "web": null,
+                "parroquia": "CABRAL",
+                "id": 1851,
+                "id_tipo": 164,
+                "telefono": "986288188",
+                "lat": 42.23814
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.77202,
+                    42.21168
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "PERTEGUEIRAS",
+                "codigo_postal": "36212",
+                "tipo_es": "Centro de Educación Especial (CEEPR)",
+                "numero": 94,
+                "calle": "AVDA EUROPA",
+                "lon": -8.77202,
+                "tipo_gl": "Centro de Educación Especial (CEEPR)",
+                "nombre": "CEEPR San Francisco",
+                "web": null,
+                "parroquia": "NAVIA",
+                "id": 1955,
+                "id_tipo": 164,
+                "telefono": "672150928",
+                "lat": 42.21168
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.74684,
+                    42.22347
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36208",
+                "tipo_es": "Centro de Educación Especial (CEEPR)",
+                "numero": 1,
+                "calle": "RUA SAN XOAN DE DEUS (BOUZAS)",
+                "lon": -8.74684,
+                "tipo_gl": "Centro de Educación Especial (CEEPR)",
+                "nombre": "CEEPR Fogar e Clin. San Rafael",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1973,
+                "id_tipo": 164,
+                "telefono": "986232740",
+                "lat": 42.22347
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.75819,
+                    42.21987
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VEIGUIÑA",
+                "codigo_postal": "36212",
+                "tipo_es": "Centro de Educación Especial (CEEPR)",
+                "numero": 17,
+                "calle": "CMÑO VEIGUIÑA (ALCABRE)",
+                "lon": -8.75819,
+                "tipo_gl": "Centro de Educación Especial (CEEPR)",
+                "nombre": "CEEPR Menela",
+                "web": null,
+                "parroquia": "ALCABRE",
+                "id": 1975,
+                "id_tipo": 164,
+                "telefono": "986240703",
+                "lat": 42.21987
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72605,
+                    42.21015
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "PAZO",
+                "codigo_postal": "36213",
+                "tipo_es": "Centro de Educación Especial (CEEPR)",
+                "numero": 18,
+                "calle": "RUA MESTRES GOLDAR",
+                "lon": -8.72605,
+                "tipo_gl": "Centro de Educación Especial (CEEPR)",
+                "nombre": "CEEPR Aspanaex",
+                "web": null,
+                "parroquia": "CASTRELOS",
+                "id": 2020,
+                "id_tipo": 164,
+                "telefono": "986208395",
+                "lat": 42.21015
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73778,
+                    42.19988
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "SAN MAURO",
+                "codigo_postal": "36213",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 14,
+                "calle": "RUA MANUEL COMINGES",
+                "lon": -8.73778,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP Josefa Alonso de Alonso",
+                "web": "http://www.edu.xunta.gal/centros/ceipjosefaalonso/",
+                "parroquia": "MATAMA",
+                "id": 1859,
+                "id_tipo": 78,
+                "telefono": "886120246",
+                "lat": 42.19988
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.71879,
+                    42.19519
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "BABIO",
+                "codigo_postal": "36312",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 9,
+                "calle": "RUA RAMIRO PASCUAL",
+                "lon": -8.71879,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP Otero Pedrayo",
+                "web": null,
+                "parroquia": "BEADE",
+                "id": 1860,
+                "id_tipo": 78,
+                "telefono": "886120257",
+                "lat": 42.19519
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70838,
+                    42.16438
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "GARRIDA",
+                "codigo_postal": "36315",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 89,
+                "calle": "CTRA ESCOLA DA SOBREIRA",
+                "lon": -8.70838,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP Plurilingüe Sobreira-Valadares",
+                "web": null,
+                "parroquia": "VALADARES",
+                "id": 1861,
+                "id_tipo": 78,
+                "telefono": "986468189",
+                "lat": 42.16438
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70148,
+                    42.19213
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "COUTADA",
+                "codigo_postal": "36312",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 6,
+                "calle": "CMÑO ALEN",
+                "lon": -8.70148,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP de Coutada-Beade",
+                "web": null,
+                "parroquia": "BEADE",
+                "id": 1862,
+                "id_tipo": 78,
+                "telefono": "886111196",
+                "lat": 42.19213
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.69102,
+                    42.20624
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "MOSTEIRO",
+                "codigo_postal": "36214",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 161,
+                "calle": "CTRA BEMBRIVE",
+                "lon": -8.69102,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP de Mosteiro-Bembrive",
+                "web": "http://www.edu.xunta.gal/centros/ceipmosteirobembrive/",
+                "parroquia": "BEMBRIVE",
+                "id": 1863,
+                "id_tipo": 78,
+                "telefono": "886120216",
+                "lat": 42.20624
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.66904,
+                    42.22138
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "SELLO",
+                "codigo_postal": "36215",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 5,
+                "calle": "RUA SARDOMELA",
+                "lon": -8.66904,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP O Sello",
+                "web": null,
+                "parroquia": "CABRAL",
+                "id": 1871,
+                "id_tipo": 78,
+                "telefono": "886120268",
+                "lat": 42.22138
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.64811,
+                    42.23478
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "CARBALLAL",
+                "codigo_postal": "36317",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 1,
+                "calle": "RUA LOMBA",
+                "lon": -8.64811,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP Plurilingüe Carballal-Cabral",
+                "web": null,
+                "parroquia": "CABRAL",
+                "id": 1872,
+                "id_tipo": 78,
+                "telefono": "886120124",
+                "lat": 42.23478
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.66801,
+                    42.24156
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "IGREXA",
+                "codigo_postal": "36317",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 131,
+                "calle": "RUA SAN CRISTOVO (CANDEAN)",
+                "lon": -8.66801,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP da Igrexa-Candeán",
+                "web": null,
+                "parroquia": "CANDEAN",
+                "id": 1873,
+                "id_tipo": 78,
+                "telefono": "886120037",
+                "lat": 42.24156
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.69049,
+                    42.23447
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36215",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 24,
+                "calle": "RUA ROSAL FLORIDO",
+                "lon": -8.69049,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP Eduardo Pondal",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1874,
+                "id_tipo": 78,
+                "telefono": "886120261",
+                "lat": 42.23447
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.69522,
+                    42.24145
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36206",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 42,
+                "calle": "CMÑO GONDERAN",
+                "lon": -8.69522,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP Frián-Teis",
+                "web": "http://www.edu.xunta.gal/centros/ceipfrian/",
+                "parroquia": "VIGO",
+                "id": 1875,
+                "id_tipo": 78,
+                "telefono": "886120161",
+                "lat": 42.24145
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.67545,
+                    42.22812
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "BARREIRO",
+                "codigo_postal": "36214",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 34,
+                "calle": "TRVA BARREIRO 1 (LAVADORES)",
+                "lon": -8.67545,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP de Fonte Escura",
+                "web": "http://www.edu.xunta.gal/centros/ceipfonteescura/",
+                "parroquia": "LAVADORES",
+                "id": 1876,
+                "id_tipo": 78,
+                "telefono": "886120130",
+                "lat": 42.22812
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.69970,
+                    42.22332
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VILAR",
+                "codigo_postal": "36214",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 16,
+                "calle": "AVDA ALCALDE DE LAVADORES",
+                "lon": -8.69970,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP Valle Inclán",
+                "web": null,
+                "parroquia": "LAVADORES",
+                "id": 1877,
+                "id_tipo": 78,
+                "telefono": "886120202",
+                "lat": 42.22332
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70750,
+                    42.22515
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36205",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 18,
+                "calle": "RUA GAIVOTA",
+                "lon": -8.70750,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP A Doblada",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1878,
+                "id_tipo": 78,
+                "telefono": "886120154",
+                "lat": 42.22515
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73215,
+                    42.23372
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36202",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 8,
+                "calle": "RUA MARQUES DE VALTERRA",
+                "lon": -8.73215,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP Plurilingüe Ramón y Cajal",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1910,
+                "id_tipo": 78,
+                "telefono": "886120065",
+                "lat": 42.23372
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73189,
+                    42.21862
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36210",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 4,
+                "calle": "RUA CESAREO GONZALEZ",
+                "lon": -8.73189,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP Altamar",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1911,
+                "id_tipo": 78,
+                "telefono": "986213713",
+                "lat": 42.21862
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73603,
+                    42.22338
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36208",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 7,
+                "calle": "CMÑO CHOUZO",
+                "lon": -8.73603,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP Emilia Pardo Bazán",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1941,
+                "id_tipo": 78,
+                "telefono": "886120078",
+                "lat": 42.22338
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.75213,
+                    42.21999
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36208",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 70,
+                "calle": "RUA ROCIO",
+                "lon": -8.75213,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP Virxe do Rocío",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1942,
+                "id_tipo": 78,
+                "telefono": "986236148",
+                "lat": 42.21999
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.74424,
+                    42.21789
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36209",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 59,
+                "calle": "AVDA CASTELAO",
+                "lon": -8.74424,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP Illas Cíes",
+                "web": "http://www.edu.xunta.gal/centros/ceipillascies/",
+                "parroquia": "VIGO",
+                "id": 1943,
+                "id_tipo": 78,
+                "telefono": "886120111",
+                "lat": 42.21789
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.74695,
+                    42.21626
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36209",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 2,
+                "calle": "RUA MONDARIZ",
+                "lon": -8.74695,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP Seis do Nadal",
+                "web": "https://www.edu.xunta.gal/centros/cepseisdonadal/",
+                "parroquia": "VIGO",
+                "id": 1944,
+                "id_tipo": 78,
+                "telefono": "886120182",
+                "lat": 42.21626
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73779,
+                    42.21852
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36210",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 18,
+                "calle": "RUA GARCIA LORCA",
+                "lon": -8.73779,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP Plurilingüe Pintor Laxeiro",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1945,
+                "id_tipo": 78,
+                "telefono": "886120137",
+                "lat": 42.21852
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.74374,
+                    42.21118
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36210",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 1,
+                "calle": "RUA PABLO IGLESIAS",
+                "lon": -8.74374,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP Balaídos",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1946,
+                "id_tipo": 78,
+                "telefono": "886111084",
+                "lat": 42.21118
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.74096,
+                    42.22095
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36209",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 10,
+                "calle": "RUA ESTRADA",
+                "lon": -8.74096,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP Escultor Acuña",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1947,
+                "id_tipo": 78,
+                "telefono": "886120115",
+                "lat": 42.22095
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.77306,
+                    42.18776
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "TINTUREIRA",
+                "codigo_postal": "36330",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 42,
+                "calle": "CTRA FRAGOSELO",
+                "lon": -8.77306,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP A Paz",
+                "web": null,
+                "parroquia": "CORUXO",
+                "id": 1952,
+                "id_tipo": 78,
+                "telefono": "886120271",
+                "lat": 42.18776
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.76060,
+                    42.20935
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "XUNCAL",
+                "codigo_postal": "36212",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 35,
+                "calle": "RUA PEDRA SEIXA (DA)",
+                "lon": -8.76060,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP Alfonso D. Rodríguez Castelao",
+                "web": null,
+                "parroquia": "NAVIA",
+                "id": 1953,
+                "id_tipo": 78,
+                "telefono": "886120253",
+                "lat": 42.20935
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.80122,
+                    42.18753
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "POZA",
+                "codigo_postal": "36390",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 139,
+                "calle": "AVDA CESAREO VAZQUEZ",
+                "lon": -8.80122,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP Plurilingüe Ría de Vigo",
+                "web": null,
+                "parroquia": "OIA",
+                "id": 1954,
+                "id_tipo": 78,
+                "telefono": "886120107",
+                "lat": 42.18753
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.71307,
+                    42.23605
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36201",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 20,
+                "calle": "RUA SERAFIN AVENDAÑO",
+                "lon": -8.71307,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP García Barbón",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1958,
+                "id_tipo": 78,
+                "telefono": "886120161",
+                "lat": 42.23605
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.78061,
+                    42.19745
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "COUTO DE ABAIXO",
+                "codigo_postal": "36331",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 55,
+                "calle": "RUA CARRASQUEIRA",
+                "lon": -8.78061,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP Plurilingüe da Carrasqueira",
+                "web": null,
+                "parroquia": "CORUXO",
+                "id": 1979,
+                "id_tipo": 78,
+                "telefono": "886120191",
+                "lat": 42.19745
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.76222,
+                    42.22093
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "CASTAÑAL",
+                "codigo_postal": "36208",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 8,
+                "calle": "RUA XAVIER SENSAT",
+                "lon": -8.76222,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP Plurilingüe Javier Sensat",
+                "web": null,
+                "parroquia": "ALCABRE",
+                "id": 1982,
+                "id_tipo": 78,
+                "telefono": "886120243",
+                "lat": 42.22093
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.75396,
+                    42.20071
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "EIDOS",
+                "codigo_postal": "36213",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 104,
+                "calle": "CTRA MATAMA PAZO",
+                "lon": -8.75396,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP Plurilingüe Párroco Don Camilo",
+                "web": "http://www.edu.xunta.gal/centros/ceipparrocodoncamilo/",
+                "parroquia": "COMESAÑA",
+                "id": 1983,
+                "id_tipo": 78,
+                "telefono": "886120222",
+                "lat": 42.20071
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.68480,
+                    42.25669
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36216",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 181,
+                "calle": "AVDA GALICIA",
+                "lon": -8.68480,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP San Salvador",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 2000,
+                "id_tipo": 78,
+                "telefono": "886120210",
+                "lat": 42.25669
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.68567,
+                    42.24849
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "PARAIXAL",
+                "codigo_postal": "36216",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 17,
+                "calle": "RUA COLEXIO PARAIXAL",
+                "lon": -8.68567,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP Plurilingüe Paraixal",
+                "web": null,
+                "parroquia": "TEIS",
+                "id": 2001,
+                "id_tipo": 78,
+                "telefono": "886120233",
+                "lat": 42.24849
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70083,
+                    42.24627
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36207",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 10,
+                "calle": "RUA SANTANDER",
+                "lon": -8.70083,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP Vicente Risco",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 2002,
+                "id_tipo": 78,
+                "telefono": "886120185",
+                "lat": 42.24627
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.65469,
+                    42.22065
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "BECERREIRA",
+                "codigo_postal": "36318",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 40,
+                "calle": "RUA XALON",
+                "lon": -8.65469,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP Santa Mariña",
+                "web": null,
+                "parroquia": "CABRAL",
+                "id": 2009,
+                "id_tipo": 78,
+                "telefono": "886120175",
+                "lat": 42.22065
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.69875,
+                    42.23246
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "PARDAVILA",
+                "codigo_postal": "36205",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 0,
+                "calle": "CMÑO POMBAL (CALVARIO)",
+                "lon": -8.69875,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP O Pombal",
+                "web": "http://centros.edu.xunta.es/ceipopombal",
+                "parroquia": "LAVADORES",
+                "id": 2010,
+                "id_tipo": 78,
+                "telefono": "886120087",
+                "lat": 42.23246
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72971,
+                    42.20944
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "PEREIRO",
+                "codigo_postal": "36213",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 22,
+                "calle": "RUA CANICOUVA (CASTRELOS)",
+                "lon": -8.72971,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP A Canicouva",
+                "web": null,
+                "parroquia": "CASTRELOS",
+                "id": 2014,
+                "id_tipo": 78,
+                "telefono": "886120237",
+                "lat": 42.20944
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72271,
+                    42.21343
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "COSTA",
+                "codigo_postal": "36213",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 4,
+                "calle": "RUA COSTA (CASTRELOS)",
+                "lon": -8.72271,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP Mestres Goldar",
+                "web": null,
+                "parroquia": "CASTRELOS",
+                "id": 2015,
+                "id_tipo": 78,
+                "telefono": "886120095",
+                "lat": 42.21343
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.71082,
+                    42.22223
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "RAVISO",
+                "codigo_postal": "36214",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 119,
+                "calle": "CTRA PROVINCIAL",
+                "lon": -8.71082,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP Lope de Vega",
+                "web": null,
+                "parroquia": "SARDOMA",
+                "id": 2016,
+                "id_tipo": 78,
+                "telefono": "886111165",
+                "lat": 42.22223
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70714,
+                    42.20737
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "RELFAS",
+                "codigo_postal": "36214",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 30,
+                "calle": "CTRA MARCO",
+                "lon": -8.70714,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP de Sárdoma-Moledo",
+                "web": null,
+                "parroquia": "SARDOMA",
+                "id": 2017,
+                "id_tipo": 78,
+                "telefono": "886120168",
+                "lat": 42.20737
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.67672,
+                    42.19644
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "CHANS",
+                "codigo_postal": "36313",
+                "tipo_es": "Centro de Educación Infantil y Primaria (CEIP)",
+                "numero": 2,
+                "calle": "RUA LOMBA",
+                "lon": -8.67672,
+                "tipo_gl": "Centro de Educación Infantil e Primaria (CEIP)",
+                "nombre": "CEIP de Chans-Bembrive",
+                "web": "http://centros.edu.xunta.es/ceipdechans.bembrive",
+                "parroquia": "BEMBRIVE",
+                "id": 4594,
+                "id_tipo": 78,
+                "telefono": "886111140",
+                "lat": 42.19644
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.68078,
+                    42.21487
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": null,
+                "codigo_postal": "36214",
+                "tipo_es": "Centro Integrado de Formacion Profesional (CIFP)",
+                "numero": null,
+                "calle": "AVDA MADRID",
+                "lon": -8.68078,
+                "tipo_gl": "Centro Integrado de Formacion Profesional (CIFP)",
+                "nombre": "CIFP Manuel Antonio",
+                "web": "http://www.edu.xunta.gal/centros/cifpmanuelantonio/",
+                "parroquia": null,
+                "id": 5154,
+                "id_tipo": 200,
+                "telefono": "886120750",
+                "lat": 42.21487
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.75185,
+                    42.21476
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36209",
+                "tipo_es": "Centro Integrado de Formacion Profesional (CIFP)",
+                "numero": 28,
+                "calle": "RUA BAIONA",
+                "lon": -8.75185,
+                "tipo_gl": "Centro Integrado de Formacion Profesional (CIFP)",
+                "nombre": "CIFP de Coia",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1951,
+                "id_tipo": 200,
+                "telefono": "886110905",
+                "lat": 42.21476
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.68001,
+                    42.21838
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "BOUCIÑA",
+                "codigo_postal": "36214",
+                "tipo_es": "Centro Integrado de Formacion Profesional (CIFP)",
+                "numero": 160,
+                "calle": "CTRA VELLA MADRID",
+                "lon": -8.68001,
+                "tipo_gl": "Centro Integrado de Formacion Profesional (CIFP)",
+                "nombre": "CIFP Valentín Paz Andrade",
+                "web": null,
+                "parroquia": "LAVADORES",
+                "id": 2019,
+                "id_tipo": 200,
+                "telefono": "886110857",
+                "lat": 42.21838
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73028,
+                    42.23610
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36202",
+                "tipo_es": "Escuelas Infantiles Municipales (EIM)",
+                "numero": 38,
+                "calle": "RUA SANTA MARTA",
+                "lon": -8.73028,
+                "tipo_gl": "Escolas Infantís Municipais (EIM)",
+                "nombre": "EIM Santa Marta - Casco Vello",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1957,
+                "id_tipo": 157,
+                "telefono": "986442153",
+                "lat": 42.23610
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.80612,
+                    42.16717
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "RADIO COSTERA",
+                "codigo_postal": "36392",
+                "tipo_es": "Escuelas Infantiles Municipales (EIM)",
+                "numero": 83,
+                "calle": "BDA PRAIA (SAIANS)",
+                "lon": -8.80612,
+                "tipo_gl": "Escolas Infantís Municipais (EIM)",
+                "nombre": "EIM Costeira de Saiáns",
+                "web": null,
+                "parroquia": "SAIANS",
+                "id": 1976,
+                "id_tipo": 157,
+                "telefono": "986498677",
+                "lat": 42.16717
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.69722,
+                    42.22693
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "BAGUNDA",
+                "codigo_postal": "36214",
+                "tipo_es": "Escuelas Infantiles Municipales (EIM)",
+                "numero": 1,
+                "calle": "RUA SANTA CRISTINA",
+                "lon": -8.69722,
+                "tipo_gl": "Escolas Infantís Municipais (EIM)",
+                "nombre": "EIM Santa Cristina de Lavadores",
+                "web": null,
+                "parroquia": "LAVADORES",
+                "id": 1986,
+                "id_tipo": 157,
+                "telefono": "986280732",
+                "lat": 42.22693
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70030,
+                    42.25368
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36207",
+                "tipo_es": "Escuelas Infantiles Municipales (EIM)",
+                "numero": 9,
+                "calle": "AVDA DOÑA FERMINA",
+                "lon": -8.70030,
+                "tipo_gl": "Escolas Infantís Municipais (EIM)",
+                "nombre": "EIM Atalaia de Teis",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 2021,
+                "id_tipo": 157,
+                "telefono": "986376503",
+                "lat": 42.25368
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.75577,
+                    42.22381
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36208",
+                "tipo_es": "Escuelas Infantiles Municipales (EIM)",
+                "numero": 18,
+                "calle": "RUA CASIANO MARTINEZ",
+                "lon": -8.75577,
+                "tipo_gl": "Escolas Infantís Municipais (EIM)",
+                "nombre": "EIM Bouzas - Casiano Martínez",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5218,
+                "id_tipo": 157,
+                "telefono": "986246550",
+                "lat": 42.22381
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72616,
+                    42.20974
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "PAZO",
+                "codigo_postal": "36213",
+                "tipo_es": "Escuelas Infantiles Municipales (EIM)",
+                "numero": 22,
+                "calle": "RUA MESTRES GOLDAR",
+                "lon": -8.72616,
+                "tipo_gl": "Escolas Infantís Municipais (EIM)",
+                "nombre": "EIM Mestres Goldar",
+                "web": null,
+                "parroquia": "CASTRELOS",
+                "id": 5219,
+                "id_tipo": 157,
+                "telefono": "986239644",
+                "lat": 42.20974
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.76256,
+                    42.20885
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": null,
+                "codigo_postal": "36212",
+                "tipo_es": "Escuelas Infantiles Municipales (EIM)",
+                "numero": 37,
+                "calle": "RUA PEDRA SEIXA (DA)",
+                "lon": -8.76256,
+                "tipo_gl": "Escolas Infantís Municipais (EIM)",
+                "nombre": "EIM Navia",
+                "web": null,
+                "parroquia": null,
+                "id": 5220,
+                "id_tipo": 157,
+                "telefono": "986687822",
+                "lat": 42.20885
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.74565,
+                    42.22464
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": null,
+                "codigo_postal": "36208",
+                "tipo_es": "Escuelas Infantiles Municipales (EIM)",
+                "numero": null,
+                "calle": "RUA TOMAS A ALONSO",
+                "lon": -8.74565,
+                "tipo_gl": "Escolas Infantís Municipais (EIM)",
+                "nombre": "EIM Tomás Alonso",
+                "web": null,
+                "parroquia": null,
+                "id": 5221,
+                "id_tipo": 157,
+                "telefono": "986291206",
+                "lat": 42.22464
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70629,
+                    42.24330
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36207",
+                "tipo_es": "Escuelas Infantiles (EI) / Guarderías Infantiles",
+                "numero": 5,
+                "calle": "RUA SANJURJO BADIA",
+                "lon": -8.70629,
+                "tipo_gl": "Escolas Infantís (EI) / Garderías Infantís",
+                "nombre": "EI Pasiño a Pasiño",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5234,
+                "id_tipo": 198,
+                "telefono": "986437609",
+                "lat": 42.24330
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70458,
+                    42.23401
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36206",
+                "tipo_es": "Escuelas Infantiles (EI) / Guarderías Infantiles",
+                "numero": 52,
+                "calle": "RUA NUMANCIA",
+                "lon": -8.70458,
+                "tipo_gl": "Escolas Infantís (EI) / Garderías Infantís",
+                "nombre": "EI San Nicolás",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5235,
+                "id_tipo": 198,
+                "telefono": "986262570",
+                "lat": 42.23401
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.69712,
+                    42.25120
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36207",
+                "tipo_es": "Escuelas Infantiles (EI) / Guarderías Infantiles",
+                "numero": 33,
+                "calle": "RUA DR. CORBAL",
+                "lon": -8.69712,
+                "tipo_gl": "Escolas Infantís (EI) / Garderías Infantís",
+                "nombre": "EI Santa Isabel",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5236,
+                "id_tipo": 198,
+                "telefono": "986376427",
+                "lat": 42.25120
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72927,
+                    42.21821
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "FREIXEIRO",
+                "codigo_postal": "36210",
+                "tipo_es": "Escuelas Infantiles (EI) / Guarderías Infantiles",
+                "numero": 44,
+                "calle": "RUA PASTORA",
+                "lon": -8.72927,
+                "tipo_gl": "Escolas Infantís (EI) / Garderías Infantís",
+                "nombre": "EI Santo Tomé de Treixeiro",
+                "web": null,
+                "parroquia": "FREIXEIRO",
+                "id": 5237,
+                "id_tipo": 198,
+                "telefono": "986136059",
+                "lat": 42.21821
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.75587,
+                    42.22021
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": null,
+                "codigo_postal": "36208",
+                "tipo_es": "Escuelas Infantiles (EI) / Guarderías Infantiles",
+                "numero": 2,
+                "calle": "RUA PARDAIÑA",
+                "lon": -8.75587,
+                "tipo_gl": "Escolas Infantís (EI) / Garderías Infantís",
+                "nombre": "EI Bouzas",
+                "web": null,
+                "parroquia": null,
+                "id": 5222,
+                "id_tipo": 198,
+                "telefono": null,
+                "lat": 42.22021
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70779,
+                    42.20795
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "RELFAS",
+                "codigo_postal": "36214",
+                "tipo_es": "Escuelas Infantiles (EI) / Guarderías Infantiles",
+                "numero": 28,
+                "calle": "CTRA MARCO",
+                "lon": -8.70779,
+                "tipo_gl": "Escolas Infantís (EI) / Garderías Infantís",
+                "nombre": "EI Relfas",
+                "web": null,
+                "parroquia": "SARDOMA",
+                "id": 5223,
+                "id_tipo": 198,
+                "telefono": "886120120",
+                "lat": 42.20795
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.74933,
+                    42.21529
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36209",
+                "tipo_es": "Escuelas Infantiles (EI) / Guarderías Infantiles",
+                "numero": 9,
+                "calle": "RUA BAIONA",
+                "lon": -8.74933,
+                "tipo_gl": "Escolas Infantís (EI) / Garderías Infantís",
+                "nombre": "EI Rosalía de Castro",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5224,
+                "id_tipo": 198,
+                "telefono": "886120164",
+                "lat": 42.21529
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.65354,
+                    42.22933
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "CAEIRO",
+                "codigo_postal": "36318",
+                "tipo_es": "Escuelas Infantiles (EI) / Guarderías Infantiles",
+                "numero": 2,
+                "calle": "CMÑO GORGUIÑA",
+                "lon": -8.65354,
+                "tipo_gl": "Escolas Infantís (EI) / Garderías Infantís",
+                "nombre": "EI Caeiro",
+                "web": null,
+                "parroquia": "CABRAL",
+                "id": 5225,
+                "id_tipo": 198,
+                "telefono": "886120145",
+                "lat": 42.22933
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72577,
+                    42.23526
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36202",
+                "tipo_es": "Escuelas Infantiles (EI) / Guarderías Infantiles",
+                "numero": 1,
+                "calle": "RUA RONDA DON BOSCO",
+                "lon": -8.72577,
+                "tipo_gl": "Escolas Infantís (EI) / Garderías Infantís",
+                "nombre": "EI San Paio",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5226,
+                "id_tipo": 198,
+                "telefono": "986222137",
+                "lat": 42.23526
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70096,
+                    42.22940
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36205",
+                "tipo_es": "Escuelas Infantiles (EI) / Guarderías Infantiles",
+                "numero": 32,
+                "calle": "RUA PALENCIA",
+                "lon": -8.70096,
+                "tipo_gl": "Escolas Infantís (EI) / Garderías Infantís",
+                "nombre": "EI Rúa Palencia",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5228,
+                "id_tipo": 198,
+                "telefono": "986267794",
+                "lat": 42.22940
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70672,
+                    42.19346
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": null,
+                "codigo_postal": "36214",
+                "tipo_es": "Escuelas Infantiles (EI) / Guarderías Infantiles",
+                "numero": null,
+                "calle": null,
+                "lon": -8.70672,
+                "tipo_gl": "Escolas Infantís (EI) / Garderías Infantís",
+                "nombre": "EI Valadares",
+                "web": null,
+                "parroquia": null,
+                "id": 5229,
+                "id_tipo": 198,
+                "telefono": "886092307",
+                "lat": 42.19346
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70556,
+                    42.23013
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36205",
+                "tipo_es": "Escuelas Infantiles (EI) / Guarderías Infantiles",
+                "numero": 11,
+                "calle": "RUA DR. CARRACIDO",
+                "lon": -8.70556,
+                "tipo_gl": "Escolas Infantís (EI) / Garderías Infantís",
+                "nombre": "EI Ángel de la Guarda",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5230,
+                "id_tipo": 198,
+                "telefono": "986273012",
+                "lat": 42.23013
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.69651,
+                    42.23320
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "PARDAVILA",
+                "codigo_postal": "36205",
+                "tipo_es": "Escuelas Infantiles (EI) / Guarderías Infantiles",
+                "numero": 18,
+                "calle": "RUA CANTABRIA",
+                "lon": -8.69651,
+                "tipo_gl": "Escolas Infantís (EI) / Garderías Infantís",
+                "nombre": "EI Atalaia Cantabria",
+                "web": null,
+                "parroquia": "LAVADORES",
+                "id": 5231,
+                "id_tipo": 198,
+                "telefono": "986276012",
+                "lat": 42.23320
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.68748,
+                    42.23747
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36215",
+                "tipo_es": "Escuelas Infantiles (EI) / Guarderías Infantiles",
+                "numero": 21,
+                "calle": "RUA FIGUEIRO",
+                "lon": -8.68748,
+                "tipo_gl": "Escolas Infantís (EI) / Garderías Infantís",
+                "nombre": "EI Cáritas Tui-Vigo",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5232,
+                "id_tipo": 198,
+                "telefono": "986277370",
+                "lat": 42.23747
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.74482,
+                    42.22108
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36208",
+                "tipo_es": "Escuelas Infantiles (EI) / Guarderías Infantiles",
+                "numero": 1,
+                "calle": "PRAZA CONSOLACION",
+                "lon": -8.74482,
+                "tipo_gl": "Escolas Infantís (EI) / Garderías Infantís",
+                "nombre": "EI Panxolinas",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5233,
+                "id_tipo": 198,
+                "telefono": "986294243",
+                "lat": 42.22108
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.71553,
+                    42.20161
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "SAA",
+                "codigo_postal": "36312",
+                "tipo_es": "Instituto Enseñanza Secundaria (IES)",
+                "numero": 10,
+                "calle": "CMÑO OUTEIRO (BEADE)",
+                "lon": -8.71553,
+                "tipo_gl": "Instituto Ensinanza Secundaria (IES)",
+                "nombre": "IES de Beade",
+                "web": null,
+                "parroquia": "BEADE",
+                "id": 1865,
+                "id_tipo": 144,
+                "telefono": "886111030",
+                "lat": 42.20161
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70120,
+                    42.23243
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36206",
+                "tipo_es": "Instituto Enseñanza Secundaria (IES)",
+                "numero": 22,
+                "calle": "RUA ARAGON",
+                "lon": -8.70120,
+                "tipo_gl": "Instituto Ensinanza Secundaria (IES)",
+                "nombre": "IES Castelao",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1879,
+                "id_tipo": 144,
+                "telefono": "886111111",
+                "lat": 42.23243
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73504,
+                    42.22658
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36208",
+                "tipo_es": "Instituto Enseñanza Secundaria (IES)",
+                "numero": 88,
+                "calle": "RUA CONDE TORRECEDEIRA",
+                "lon": -8.73504,
+                "tipo_gl": "Instituto Ensinanza Secundaria (IES)",
+                "nombre": "IES Politécnico de Vigo",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1923,
+                "id_tipo": 144,
+                "telefono": "986213025",
+                "lat": 42.22658
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72618,
+                    42.22772
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36203",
+                "tipo_es": "Instituto Enseñanza Secundaria (IES)",
+                "numero": 1,
+                "calle": "RUA JOSE GOMEZ POSADA CURROS",
+                "lon": -8.72618,
+                "tipo_gl": "Instituto Ensinanza Secundaria (IES)",
+                "nombre": "IES do Castro",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1924,
+                "id_tipo": 144,
+                "telefono": "986422974",
+                "lat": 42.22772
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73182,
+                    42.22006
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36211",
+                "tipo_es": "Instituto Enseñanza Secundaria (IES)",
+                "numero": 7,
+                "calle": "PRAZA AMERICA",
+                "lon": -8.73182,
+                "tipo_gl": "Instituto Ensinanza Secundaria (IES)",
+                "nombre": "IES Santa Irene",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1925,
+                "id_tipo": 144,
+                "telefono": "986233799",
+                "lat": 42.22006
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.75162,
+                    42.22569
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36208",
+                "tipo_es": "Instituto Enseñanza Secundaria (IES)",
+                "numero": null,
+                "calle": "RUA EDUARDO CABELLO",
+                "lon": -8.75162,
+                "tipo_gl": "Instituto Ensinanza Secundaria (IES)",
+                "nombre": "IES Audiovisual de Vigo",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1948,
+                "id_tipo": 144,
+                "telefono": "886111152",
+                "lat": 42.22569
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.75092,
+                    42.21526
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36209",
+                "tipo_es": "Instituto Enseñanza Secundaria (IES)",
+                "numero": 26,
+                "calle": "RUA CUNTIS",
+                "lon": -8.75092,
+                "tipo_gl": "Instituto Ensinanza Secundaria (IES)",
+                "nombre": "IES Alexandre Bóveda",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1949,
+                "id_tipo": 144,
+                "telefono": "986292812",
+                "lat": 42.21526
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.75231,
+                    42.21599
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36209",
+                "tipo_es": "Instituto Enseñanza Secundaria (IES)",
+                "numero": null,
+                "calle": "RUA PORRIÑO",
+                "lon": -8.75231,
+                "tipo_gl": "Instituto Ensinanza Secundaria (IES)",
+                "nombre": "IES Álvaro Cunqueiro",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1950,
+                "id_tipo": 144,
+                "telefono": "886111181",
+                "lat": 42.21599
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.77965,
+                    42.19780
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "COUTO DE ABAIXO",
+                "codigo_postal": "36331",
+                "tipo_es": "Instituto Enseñanza Secundaria (IES)",
+                "numero": 68,
+                "calle": "RUA CARRASQUEIRA",
+                "lon": -8.77965,
+                "tipo_gl": "Instituto Ensinanza Secundaria (IES)",
+                "nombre": "IES Coruxo",
+                "web": null,
+                "parroquia": "CORUXO",
+                "id": 1977,
+                "id_tipo": 144,
+                "telefono": "886111016",
+                "lat": 42.19780
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70784,
+                    42.16702
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "SOBREIRA",
+                "codigo_postal": "36213",
+                "tipo_es": "Instituto Enseñanza Secundaria (IES)",
+                "numero": null,
+                "calle": "ESTDA CLARA CAMPOAMOR",
+                "lon": -8.70784,
+                "tipo_gl": "Instituto Ensinanza Secundaria (IES)",
+                "nombre": "IES Valadares",
+                "web": null,
+                "parroquia": "VALADARES",
+                "id": 1984,
+                "id_tipo": 144,
+                "telefono": "886111060",
+                "lat": 42.16702
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.67195,
+                    42.21163
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "FONTIÑAS",
+                "codigo_postal": "36215",
+                "tipo_es": "Instituto Enseñanza Secundaria (IES)",
+                "numero": 102,
+                "calle": "AVDA PONTE",
+                "lon": -8.67195,
+                "tipo_gl": "Instituto Ensinanza Secundaria (IES)",
+                "nombre": "IES Carlos Casares",
+                "web": null,
+                "parroquia": "CABRAL",
+                "id": 1989,
+                "id_tipo": 144,
+                "telefono": "886120429",
+                "lat": 42.21163
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.67976,
+                    42.21751
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "BOUCIÑA",
+                "codigo_postal": "36214",
+                "tipo_es": "Instituto Enseñanza Secundaria (IES)",
+                "numero": 177,
+                "calle": "CTRA VELLA MADRID",
+                "lon": -8.67976,
+                "tipo_gl": "Instituto Ensinanza Secundaria (IES)",
+                "nombre": "IES Ricardo Mella",
+                "web": null,
+                "parroquia": "LAVADORES",
+                "id": 1990,
+                "id_tipo": 144,
+                "telefono": "886121001",
+                "lat": 42.21751
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70297,
+                    42.24353
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36207",
+                "tipo_es": "Instituto Enseñanza Secundaria (IES)",
+                "numero": null,
+                "calle": "RUA COUTADAS (AS)",
+                "lon": -8.70297,
+                "tipo_gl": "Instituto Ensinanza Secundaria (IES)",
+                "nombre": "IES Rosais 2",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1992,
+                "id_tipo": 144,
+                "telefono": "886120511",
+                "lat": 42.24353
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.68994,
+                    42.25139
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36216",
+                "tipo_es": "Instituto Enseñanza Secundaria (IES)",
+                "numero": 101,
+                "calle": "AVDA GALICIA",
+                "lon": -8.68994,
+                "tipo_gl": "Instituto Ensinanza Secundaria (IES)",
+                "nombre": "IES de Teis",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 2003,
+                "id_tipo": 144,
+                "telefono": "886120464",
+                "lat": 42.25139
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70207,
+                    42.24387
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36207",
+                "tipo_es": "Instituto Enseñanza Secundaria (IES)",
+                "numero": 54,
+                "calle": "RUA COUTADAS (AS)",
+                "lon": -8.70207,
+                "tipo_gl": "Instituto Ensinanza Secundaria (IES)",
+                "nombre": "IES República Oriental do Uruguai",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 2004,
+                "id_tipo": 144,
+                "telefono": "886120490",
+                "lat": 42.24387
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.69886,
+                    42.25365
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36207",
+                "tipo_es": "Instituto Enseñanza Secundaria (IES)",
+                "numero": 1,
+                "calle": "AVDA DOÑA FERMINA",
+                "lon": -8.69886,
+                "tipo_gl": "Instituto Ensinanza Secundaria (IES)",
+                "nombre": "IES A Guía",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 2005,
+                "id_tipo": 144,
+                "telefono": "886111003",
+                "lat": 42.25365
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73068,
+                    42.22031
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36210",
+                "tipo_es": "Instituto Enseñanza Secundaria (IES)",
+                "numero": 191,
+                "calle": "AVDA GRAN VIA",
+                "lon": -8.73068,
+                "tipo_gl": "Instituto Ensinanza Secundaria (IES)",
+                "nombre": "IES Santo Tomé de Freixeiro",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 2018,
+                "id_tipo": 144,
+                "telefono": "986231667",
+                "lat": 42.22031
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73378,
+                    42.23310
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36202",
+                "tipo_es": "Instituto Enseñanza Secundaria (IES)",
+                "numero": 55,
+                "calle": "AVDA BEIRAMAR",
+                "lon": -8.73378,
+                "tipo_gl": "Instituto Ensinanza Secundaria (IES)",
+                "nombre": "Instituto Marítimo Pesqueiro do Atlántico",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 4618,
+                "id_tipo": 144,
+                "telefono": "886110825",
+                "lat": 42.23310
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72510,
+                    42.17393
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "BARROCAS",
+                "codigo_postal": "36315",
+                "tipo_es": "Centro Educación Primaria (CEP)",
+                "numero": null,
+                "calle": "CMÑO CASEIRO",
+                "lon": -8.72510,
+                "tipo_gl": "Centro Educación Primaria (CEP)",
+                "nombre": "CEP Plurilingüe Igrexa-Valadares",
+                "web": null,
+                "parroquia": "VALADARES",
+                "id": 1864,
+                "id_tipo": 165,
+                "telefono": "886111135",
+                "lat": 42.17393
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.75367,
+                    42.21664
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": null,
+                "codigo_postal": "36209",
+                "tipo_es": "Centro Educación Primaria (CEP)",
+                "numero": null,
+                "calle": "RUA PORRIÑO",
+                "lon": -8.75367,
+                "tipo_gl": "Centro Educación Primaria (CEP)",
+                "nombre": "CEP Celso Emilio Ferreiro",
+                "web": "http://www.edu.xunta.gal/centros/cepcelsoemiliovigo/",
+                "parroquia": null,
+                "id": 5153,
+                "id_tipo": 165,
+                "telefono": "986298058",
+                "lat": 42.21664
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72802,
+                    42.22632
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36211",
+                "tipo_es": "Centro Educación Primaria (CEP)",
+                "numero": 15,
+                "calle": "RUA OURENSE",
+                "lon": -8.72802,
+                "tipo_gl": "Centro Educación Primaria (CEP)",
+                "nombre": "CEP Dr. Fleming",
+                "web": "http://www.edu.xunta.es/centros/cepfleming",
+                "parroquia": "VIGO",
+                "id": 1909,
+                "id_tipo": 165,
+                "telefono": "886120909",
+                "lat": 42.22632
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70030,
+                    42.25167
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36207",
+                "tipo_es": "Centro Educación Primaria (CEP)",
+                "numero": 48,
+                "calle": "CMÑO MACEIRAS (TEIS)",
+                "lon": -8.70030,
+                "tipo_gl": "Centro Educación Primaria (CEP)",
+                "nombre": "CEP Santa Tegra-Teis",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1999,
+                "id_tipo": 165,
+                "telefono": "886120228",
+                "lat": 42.25167
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.68892,
+                    42.15521
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "IGREXA",
+                "codigo_postal": "36310",
+                "tipo_es": "Escuela Educación Infantíl (EEI)",
+                "numero": 24,
+                "calle": "CMÑO SUEIDO",
+                "lon": -8.68892,
+                "tipo_gl": "Escola Educación Infantíl (EEI)",
+                "nombre": "EEI Zamáns",
+                "web": null,
+                "parroquia": "ZAMANS",
+                "id": 1856,
+                "id_tipo": 156,
+                "telefono": "886120195",
+                "lat": 42.15521
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72399,
+                    42.17555
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "BARROCAS",
+                "codigo_postal": "36314",
+                "tipo_es": "Escuela Educación Infantíl (EEI)",
+                "numero": 133,
+                "calle": "CMÑO IGREXA (VALADARES)",
+                "lon": -8.72399,
+                "tipo_gl": "Escola Educación Infantíl (EEI)",
+                "nombre": "EEI Monte do Alba",
+                "web": null,
+                "parroquia": "VALADARES",
+                "id": 1857,
+                "id_tipo": 156,
+                "telefono": "886120213",
+                "lat": 42.17555
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70082,
+                    42.23781
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36206",
+                "tipo_es": "Escuela Educación Infantíl (EEI)",
+                "numero": 114,
+                "calle": "RUA ARAGON",
+                "lon": -8.70082,
+                "tipo_gl": "Escola Educación Infantíl (EEI)",
+                "nombre": "EEI Rúa Aragón",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5201,
+                "id_tipo": 156,
+                "telefono": "986374278",
+                "lat": 42.23781
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.71839,
+                    42.23328
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36203",
+                "tipo_es": "Escuela Educación Infantíl (EEI)",
+                "numero": 15,
+                "calle": "RUA HERNAN CORTES",
+                "lon": -8.71839,
+                "tipo_gl": "Escola Educación Infantíl (EEI)",
+                "nombre": "EEI Rúa Hernán Cortés",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1886,
+                "id_tipo": 156,
+                "telefono": "886120225",
+                "lat": 42.23328
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72691,
+                    42.22609
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36203",
+                "tipo_es": "Escuela Educación Infantíl (EEI)",
+                "numero": 86,
+                "calle": "AVDA HISPANIDADE",
+                "lon": -8.72691,
+                "tipo_gl": "Escola Educación Infantíl (EEI)",
+                "nombre": "EEI Vila Laura",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1908,
+                "id_tipo": 156,
+                "telefono": "986471410",
+                "lat": 42.22609
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.75079,
+                    42.21622
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36209",
+                "tipo_es": "Escuela Educación Infantíl (EEI)",
+                "numero": 11,
+                "calle": "RUA CALDAS DE REIS",
+                "lon": -8.75079,
+                "tipo_gl": "Escola Educación Infantíl (EEI)",
+                "nombre": "EEI Cristo da Victoria",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1937,
+                "id_tipo": 156,
+                "telefono": "886120205",
+                "lat": 42.21622
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.69892,
+                    42.25284
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36207",
+                "tipo_es": "Escuela Educación Infantíl (EEI)",
+                "numero": 37,
+                "calle": "RUA IRMANS MISIONEIROS DOS ENFERMOS POBRES",
+                "lon": -8.69892,
+                "tipo_gl": "Escola Educación Infantíl (EEI)",
+                "nombre": "EEI Monte da Guía",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 2022,
+                "id_tipo": 156,
+                "telefono": "886120960",
+                "lat": 42.25284
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73022,
+                    42.23345
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36202",
+                "tipo_es": "Escuela de Música Superior (EMUS)",
+                "numero": 61,
+                "calle": "RUA PI Y MARGALL",
+                "lon": -8.73022,
+                "tipo_gl": "Escola de Música Superior (EMUS)",
+                "nombre": "EMUSPR Coppelia",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5202,
+                "id_tipo": 204,
+                "telefono": "986425193",
+                "lat": 42.23345
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72144,
+                    42.17696
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "PORTAL",
+                "codigo_postal": "36314",
+                "tipo_es": "Escuela de Música Superior (EMUS)",
+                "numero": 233,
+                "calle": "CTRA VALADARES",
+                "lon": -8.72144,
+                "tipo_gl": "Escola de Música Superior (EMUS)",
+                "nombre": "EMUSPR de Valadares",
+                "web": null,
+                "parroquia": "VALADARES",
+                "id": 5203,
+                "id_tipo": 204,
+                "telefono": null,
+                "lat": 42.17696
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72722,
+                    42.22611
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36211",
+                "tipo_es": "Escuela de Música Superior (EMUS)",
+                "numero": 1,
+                "calle": "CMÑO REGUEIRO",
+                "lon": -8.72722,
+                "tipo_gl": "Escola de Música Superior (EMUS)",
+                "nombre": "ESMU Municipal de Vigo",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5214,
+                "id_tipo": 204,
+                "telefono": "986410785",
+                "lat": 42.22611
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73401,
+                    42.20124
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "DEVESA",
+                "codigo_postal": "36213",
+                "tipo_es": "Escuela de Música Superior (EMUS)",
+                "numero": 53,
+                "calle": "RUA CANTEIROS",
+                "lon": -8.73401,
+                "tipo_gl": "Escola de Música Superior (EMUS)",
+                "nombre": "EMUSPR Atlántida",
+                "web": null,
+                "parroquia": "MATAMA",
+                "id": 4624,
+                "id_tipo": 204,
+                "telefono": "986236389",
+                "lat": 42.20124
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.69915,
+                    42.19460
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "CARBALLO DO PAZO",
+                "codigo_postal": "36312",
+                "tipo_es": "Escuela de Música Superior (EMUS)",
+                "numero": 42,
+                "calle": "CTRA COUTADA (BEADE)",
+                "lon": -8.69915,
+                "tipo_gl": "Escola de Música Superior (EMUS)",
+                "nombre": "EMUSPR de Beade",
+                "web": null,
+                "parroquia": "BEADE",
+                "id": 4625,
+                "id_tipo": 204,
+                "telefono": "986243663",
+                "lat": 42.19460
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.78158,
+                    42.19378
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "COMBRO",
+                "codigo_postal": "36331",
+                "tipo_es": "Escuela de Música Superior (EMUS)",
+                "numero": 65,
+                "calle": "CTRA BAO",
+                "lon": -8.78158,
+                "tipo_gl": "Escola de Música Superior (EMUS)",
+                "nombre": "EMUSPR Unión Musical de Coruxo",
+                "web": null,
+                "parroquia": "CORUXO",
+                "id": 4626,
+                "id_tipo": 204,
+                "telefono": "672106120",
+                "lat": 42.19378
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.66939,
+                    42.21494
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "FONTIÑAS",
+                "codigo_postal": "36215",
+                "tipo_es": "Escuela de Música Superior (EMUS)",
+                "numero": 80,
+                "calle": "AVDA PONTE (CABRAL)",
+                "lon": -8.66939,
+                "tipo_gl": "Escola de Música Superior (EMUS)",
+                "nombre": "EMUSPR Aceimar",
+                "web": null,
+                "parroquia": "CABRAL",
+                "id": 4627,
+                "id_tipo": 204,
+                "telefono": null,
+                "lat": 42.21494
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72401,
+                    42.20927
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "GALINDRA",
+                "codigo_postal": "36213",
+                "tipo_es": "Escuela Municipal",
+                "numero": 0,
+                "calle": "CMÑO GALINDRA",
+                "lon": -8.72401,
+                "tipo_gl": "Escola Municipal",
+                "nombre": "Escola Municipal de Teatro",
+                "web": "http://www.emtvigo.com/",
+                "parroquia": "CASTRELOS",
+                "id": 4611,
+                "id_tipo": 201,
+                "telefono": "986485324",
+                "lat": 42.20927
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72722,
+                    42.22611
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36211",
+                "tipo_es": "Escuela Municipal",
+                "numero": 1,
+                "calle": "CMÑO REGUEIRO",
+                "lon": -8.72722,
+                "tipo_gl": "Escola Municipal",
+                "nombre": "Escola Municipal de Música de Vigo",
+                "web": "http://www.esmuvigo.es",
+                "parroquia": "VIGO",
+                "id": 1932,
+                "id_tipo": 201,
+                "telefono": "986410785",
+                "lat": 42.22611
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72667,
+                    42.23594
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36202",
+                "tipo_es": "Escuela Municipal",
+                "numero": 1,
+                "calle": "PRAZA REI",
+                "lon": -8.72667,
+                "tipo_gl": "Escola Municipal",
+                "nombre": "Escola Municipal de Danza",
+                "web": "http://emmavigo.org/",
+                "parroquia": "VIGO",
+                "id": 4612,
+                "id_tipo": 201,
+                "telefono": "986810167",
+                "lat": 42.23594
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.71959,
+                    42.23761
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36201",
+                "tipo_es": "Escuela Municipal",
+                "numero": 5,
+                "calle": "AVDA GARCIA BARBON",
+                "lon": -8.71959,
+                "tipo_gl": "Escola Municipal",
+                "nombre": "Escola Municipal de Artes e Oficios",
+                "web": "http://emmavigo.org/",
+                "parroquia": "VIGO",
+                "id": 1968,
+                "id_tipo": 201,
+                "telefono": "986228088",
+                "lat": 42.23761
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.71959,
+                    42.23761
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36201",
+                "tipo_es": "Escuela Municipal",
+                "numero": 5,
+                "calle": "AVDA GARCIA BARBON",
+                "lon": -8.71959,
+                "tipo_gl": "Escola Municipal",
+                "nombre": "Escola Municipal de Música Folk e Tradicional (e-Trad)",
+                "web": "www.e-trad.org",
+                "parroquia": "VIGO",
+                "id": 4610,
+                "id_tipo": 201,
+                "telefono": "986228088",
+                "lat": 42.23761
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.75030,
+                    42.21388
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36209",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 8,
+                "calle": "RUA SALCEDA DE CASELAS",
+                "lon": -8.75030,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe Montesol",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5187,
+                "id_tipo": 151,
+                "telefono": "986208512",
+                "lat": 42.21388
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.71346,
+                    42.23865
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36201",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 92,
+                "calle": "RUA AREAL",
+                "lon": -8.71346,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe Niño Jesús de Praga",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5188,
+                "id_tipo": 151,
+                "telefono": "986433800",
+                "lat": 42.23865
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.68393,
+                    42.22858
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "BOUCIÑA",
+                "codigo_postal": "36214",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 18,
+                "calle": "RUA CAMBESES",
+                "lon": -8.68393,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe Ntra. Señora de la Esperanza",
+                "web": null,
+                "parroquia": "LAVADORES",
+                "id": 5189,
+                "id_tipo": 151,
+                "telefono": "986274994",
+                "lat": 42.22858
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.69925,
+                    42.24997
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36207",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 62,
+                "calle": "RUA PURIFICACION SAAVEDRA",
+                "lon": -8.69925,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe Possumus",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5190,
+                "id_tipo": 151,
+                "telefono": "986371330",
+                "lat": 42.24997
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.67021,
+                    42.21912
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "FONTIÑAS",
+                "codigo_postal": "36318",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 28,
+                "calle": "SBIDA CEMITERIO PUXEIROS",
+                "lon": -8.67021,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe San Blas - Vista Alegre",
+                "web": null,
+                "parroquia": "CABRAL",
+                "id": 5191,
+                "id_tipo": 151,
+                "telefono": "986376288",
+                "lat": 42.21912
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.71672,
+                    42.22559
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "MANTELAS",
+                "codigo_postal": "36204",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 40,
+                "calle": "BDA SALGUEIRA",
+                "lon": -8.71672,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe San Fernando",
+                "web": "https://colegiosanfernandovigo.com",
+                "parroquia": "FREIXEIRO",
+                "id": 5192,
+                "id_tipo": 151,
+                "telefono": "986410174",
+                "lat": 42.22559
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.69736,
+                    42.25049
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36207",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 25,
+                "calle": "RUA DR. CORBAL",
+                "lon": -8.69736,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe San José de la Guía",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5193,
+                "id_tipo": 151,
+                "telefono": "986376153",
+                "lat": 42.25049
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73345,
+                    42.22646
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36208",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 13,
+                "calle": "RUA TOMAS A ALONSO",
+                "lon": -8.73345,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe San Miguel 2",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5194,
+                "id_tipo": 151,
+                "telefono": "986293282",
+                "lat": 42.22646
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70615,
+                    42.23393
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36206",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 36,
+                "calle": "RUA TRAVESIA DE VIGO",
+                "lon": -8.70615,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Quiñones de León",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5195,
+                "id_tipo": 151,
+                "telefono": "986278089",
+                "lat": 42.23393
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72185,
+                    42.23809
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36201",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 9,
+                "calle": "RUA VELAZQUEZ MORENO",
+                "lon": -8.72185,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Radio ECCA",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5196,
+                "id_tipo": 151,
+                "telefono": "986227315",
+                "lat": 42.23809
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70322,
+                    42.23676
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36206",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 96,
+                "calle": "RUA TRAVESIA DE VIGO",
+                "lon": -8.70322,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR San Fermín",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5197,
+                "id_tipo": 151,
+                "telefono": "986272195",
+                "lat": 42.23676
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.71308,
+                    42.22368
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "RAVISO",
+                "codigo_postal": "36204",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 46,
+                "calle": "RUA CARBALLO",
+                "lon": -8.71308,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR San José de Cluny",
+                "web": null,
+                "parroquia": "SARDOMA",
+                "id": 5198,
+                "id_tipo": 151,
+                "telefono": "986493501",
+                "lat": 42.22368
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70458,
+                    42.23401
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36206",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 52,
+                "calle": "RUA NUMANCIA",
+                "lon": -8.70458,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR San Nicolás",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5199,
+                "id_tipo": 151,
+                "telefono": "986262570",
+                "lat": 42.23401
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.69984,
+                    42.23480
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36206",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 35,
+                "calle": "AVDA AEROPORTO",
+                "lon": -8.69984,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Breogán",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1847,
+                "id_tipo": 151,
+                "telefono": "986273946",
+                "lat": 42.23480
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70126,
+                    42.23046
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36205",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 12,
+                "calle": "RUA PORTELA",
+                "lon": -8.70126,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR ICA",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1848,
+                "id_tipo": 151,
+                "telefono": "986377779",
+                "lat": 42.23046
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.68655,
+                    42.22963
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "PARDAVILA",
+                "codigo_postal": "36205",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 247,
+                "calle": "AVDA RAMON NIETO",
+                "lon": -8.68655,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe Escuelas Nieto",
+                "web": null,
+                "parroquia": "LAVADORES",
+                "id": 1849,
+                "id_tipo": 151,
+                "telefono": "986372481",
+                "lat": 42.22963
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.69758,
+                    42.22753
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "BAGUNDA",
+                "codigo_postal": "36205",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 87,
+                "calle": "RUA PORTELA",
+                "lon": -8.69758,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Santa Cristina",
+                "web": null,
+                "parroquia": "LAVADORES",
+                "id": 5200,
+                "id_tipo": 151,
+                "telefono": "986251309",
+                "lat": 42.22753
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.69452,
+                    42.21079
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "SEGADE",
+                "codigo_postal": "36214",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 91,
+                "calle": "CTRA BEMBRIVE",
+                "lon": -8.69452,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe Rosalía de Castro",
+                "web": null,
+                "parroquia": "BEMBRIVE",
+                "id": 1867,
+                "id_tipo": 151,
+                "telefono": "986420433",
+                "lat": 42.21079
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70597,
+                    42.23421
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36206",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 42,
+                "calle": "RUA TRAVESIA DE VIGO",
+                "lon": -8.70597,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Esica",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1900,
+                "id_tipo": 151,
+                "telefono": "986273469",
+                "lat": 42.23421
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73345,
+                    42.22646
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36208",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 13,
+                "calle": "RUA TOMAS A ALONSO",
+                "lon": -8.73345,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR San Miguel",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1902,
+                "id_tipo": 151,
+                "telefono": "986221325",
+                "lat": 42.22646
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73384,
+                    42.22809
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36208",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 82,
+                "calle": "RUA CONDE TORRECEDEIRA",
+                "lon": -8.73384,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Seresco",
+                "web": "http://www.seresco.es",
+                "parroquia": "VIGO",
+                "id": 1916,
+                "id_tipo": 151,
+                "telefono": "986430733",
+                "lat": 42.22809
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73197,
+                    42.22884
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36202",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 139,
+                "calle": "RUA PI Y MARGALL",
+                "lon": -8.73197,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Mendiño",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1918,
+                "id_tipo": 151,
+                "telefono": "986293444",
+                "lat": 42.22884
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72865,
+                    42.23172
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36203",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 33,
+                "calle": "AVDA HISPANIDADE",
+                "lon": -8.72865,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Cebem",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1919,
+                "id_tipo": 151,
+                "telefono": "986419899",
+                "lat": 42.23172
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72908,
+                    42.22738
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36211",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 75,
+                "calle": "RUA ROMIL",
+                "lon": -8.72908,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Povisa Formación Profesional",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1920,
+                "id_tipo": 151,
+                "telefono": "986471755",
+                "lat": 42.22738
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72817,
+                    42.22236
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36211",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 106,
+                "calle": "RUA ZAMORA",
+                "lon": -8.72817,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Educatic",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1921,
+                "id_tipo": 151,
+                "telefono": "986211295",
+                "lat": 42.22236
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72073,
+                    42.22780
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36203",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 16,
+                "calle": "RUA RAMON Y CAJAL",
+                "lon": -8.72073,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Sanitex",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1922,
+                "id_tipo": 151,
+                "telefono": "986410390",
+                "lat": 42.22780
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72333,
+                    42.23712
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36202",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 17,
+                "calle": "RUA PRINCIPE",
+                "lon": -8.72333,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Vivas",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1960,
+                "id_tipo": 151,
+                "telefono": "986227085",
+                "lat": 42.23712
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.71405,
+                    42.23680
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36201",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 50,
+                "calle": "AVDA GARCIA BARBON",
+                "lon": -8.71405,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Daniel Castelao",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1962,
+                "id_tipo": 151,
+                "telefono": "986442121",
+                "lat": 42.23680
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.71500,
+                    42.23869
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36201",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 68,
+                "calle": "RUA AREAL",
+                "lon": -8.71500,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Seforma",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1963,
+                "id_tipo": 151,
+                "telefono": "986222215",
+                "lat": 42.23869
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.76652,
+                    42.20998
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "DEVESA",
+                "codigo_postal": "36212",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 36,
+                "calle": "RUA BRAVO",
+                "lon": -8.76652,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR A Camelia",
+                "web": null,
+                "parroquia": "NAVIA",
+                "id": 5155,
+                "id_tipo": 151,
+                "telefono": "986241329",
+                "lat": 42.20998
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.75849,
+                    42.21621
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "BARREIRO",
+                "codigo_postal": "36212",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 21,
+                "calle": "AVDA EUROPA",
+                "lon": -8.75849,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe Amor de Dios",
+                "web": null,
+                "parroquia": "ALCABRE",
+                "id": 1981,
+                "id_tipo": 151,
+                "telefono": "986240669",
+                "lat": 42.21621
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.66939,
+                    42.21494
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "FONTIÑAS",
+                "codigo_postal": "36218",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 80,
+                "calle": "AVDA PONTE (CABRAL)",
+                "lon": -8.66939,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Estudios Marcote",
+                "web": null,
+                "parroquia": "CABRAL",
+                "id": 1987,
+                "id_tipo": 151,
+                "telefono": "986378467",
+                "lat": 42.21494
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72213,
+                    42.23048
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36203",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 2,
+                "calle": "RUA COUTO (O CASTRO)",
+                "lon": -8.72213,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Aloya",
+                "web": "http://www.aloya.es",
+                "parroquia": "VIGO",
+                "id": 5156,
+                "id_tipo": 151,
+                "telefono": "986420722",
+                "lat": 42.23048
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70608,
+                    42.24246
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36207",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 1,
+                "calle": "RUA MONTECELO",
+                "lon": -8.70608,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe Padre Míguez",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1998,
+                "id_tipo": 151,
+                "telefono": "986437723",
+                "lat": 42.24246
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.69978,
+                    42.25253
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36207",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 32,
+                "calle": "CMÑO CANCELO",
+                "lon": -8.69978,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Divino Maestro",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 2028,
+                "id_tipo": 151,
+                "telefono": "986371686",
+                "lat": 42.25253
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73034,
+                    42.23360
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36202",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 40,
+                "calle": "RUA PI Y MARGALL",
+                "lon": -8.73034,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Arturo",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5157,
+                "id_tipo": 151,
+                "telefono": "986122035",
+                "lat": 42.23360
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73066,
+                    42.23472
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": null,
+                "codigo_postal": "36202",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": null,
+                "calle": "RUA SANTA MARTA",
+                "lon": -8.73066,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Aula Estudio",
+                "web": "http://www.aulaestudio.com/",
+                "parroquia": null,
+                "id": 5158,
+                "id_tipo": 151,
+                "telefono": "986436212",
+                "lat": 42.23472
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72404,
+                    42.23261
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36203",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 1,
+                "calle": "RUA MARQUES DE ALCEDO",
+                "lon": -8.72404,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Los Olivos",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 4631,
+                "id_tipo": 151,
+                "telefono": "986420938",
+                "lat": 42.23261
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.71424,
+                    42.22703
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36204",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 6,
+                "calle": "RUA FILIPINAS",
+                "lon": -8.71424,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Colegio Hogar Afundación",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5159,
+                "id_tipo": 151,
+                "telefono": "986414311",
+                "lat": 42.22703
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.71584,
+                    42.22927
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36204",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 57,
+                "calle": "RUA VAZQUEZ VARELA",
+                "lon": -8.71584,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Fillas de María Inmaculada",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5160,
+                "id_tipo": 151,
+                "telefono": "986423988",
+                "lat": 42.22927
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72192,
+                    42.23321
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36203",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 20,
+                "calle": "RUA VENEZUELA",
+                "lon": -8.72192,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR El Pilar",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5161,
+                "id_tipo": 151,
+                "telefono": "986420022",
+                "lat": 42.23321
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.66939,
+                    42.21494
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "FONTIÑAS",
+                "codigo_postal": "36215",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 80,
+                "calle": "AVDA PONTE",
+                "lon": -8.66939,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Marcote",
+                "web": null,
+                "parroquia": "CABRAL",
+                "id": 5162,
+                "id_tipo": 151,
+                "telefono": "986251511",
+                "lat": 42.21494
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.63539,
+                    42.22901
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "PEINADOR",
+                "codigo_postal": "36318",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 742,
+                "calle": "AVDA AEROPORTO",
+                "lon": -8.63539,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Martín Códax",
+                "web": null,
+                "parroquia": "CABRAL",
+                "id": 5163,
+                "id_tipo": 151,
+                "telefono": null,
+                "lat": 42.22901
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73034,
+                    42.23533
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": null,
+                "codigo_postal": "36202",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": null,
+                "calle": "RUA SANTA MARTA",
+                "lon": -8.73034,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Mega Formación",
+                "web": null,
+                "parroquia": null,
+                "id": 5164,
+                "id_tipo": 151,
+                "telefono": "986233194",
+                "lat": 42.23533
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.71020,
+                    42.23281
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36204",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 8,
+                "calle": "RUA ESPERANTO",
+                "lon": -8.71020,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe Alba",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5165,
+                "id_tipo": 151,
+                "telefono": "986411810",
+                "lat": 42.23281
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.67036,
+                    42.23410
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "PARACHAN",
+                "codigo_postal": "36317",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 392,
+                "calle": "AVDA AEROPORTO",
+                "lon": -8.67036,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe Alborada",
+                "web": null,
+                "parroquia": "CANDEAN",
+                "id": 5166,
+                "id_tipo": 151,
+                "telefono": "986272432",
+                "lat": 42.23410
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72281,
+                    42.16156
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "GARRIDA",
+                "codigo_postal": "36315",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 28,
+                "calle": "CMÑO ESCOLA ANDERSEN",
+                "lon": -8.72281,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe Andersen Augalonga",
+                "web": null,
+                "parroquia": "VALADARES",
+                "id": 5167,
+                "id_tipo": 151,
+                "telefono": "986469412",
+                "lat": 42.16156
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70374,
+                    42.24492
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36207",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 79,
+                "calle": "RUA SANJURJO BADIA",
+                "lon": -8.70374,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe Apostol Santiago",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5168,
+                "id_tipo": 151,
+                "telefono": "986371011",
+                "lat": 42.24492
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.69651,
+                    42.23320
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "PARDAVILA",
+                "codigo_postal": "36205",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 18,
+                "calle": "RUA CANTABRIA",
+                "lon": -8.69651,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe Atalaya - Cantabria",
+                "web": null,
+                "parroquia": "LAVADORES",
+                "id": 5169,
+                "id_tipo": 151,
+                "telefono": "986276012",
+                "lat": 42.23320
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.75213,
+                    42.22181
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36208",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 7,
+                "calle": "RUA ROCIO",
+                "lon": -8.75213,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe Atlántida",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5170,
+                "id_tipo": 151,
+                "telefono": "986233938",
+                "lat": 42.22181
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72235,
+                    42.18500
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "CARREGAL",
+                "codigo_postal": "36315",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 78,
+                "calle": "CTRA VALADARES",
+                "lon": -8.72235,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe Barreiro",
+                "web": null,
+                "parroquia": "VALADARES",
+                "id": 5171,
+                "id_tipo": 151,
+                "telefono": "986467800",
+                "lat": 42.18500
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.69518,
+                    42.23810
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36206",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 167,
+                "calle": "RUA SAN XOAN",
+                "lon": -8.69518,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe Bouza Brey",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5172,
+                "id_tipo": 151,
+                "telefono": "986377238",
+                "lat": 42.23810
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72055,
+                    42.23382
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36203",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 33,
+                "calle": "RUA ECUADOR",
+                "lon": -8.72055,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe Compañía de María",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5173,
+                "id_tipo": 151,
+                "telefono": "986436400",
+                "lat": 42.23382
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.77881,
+                    42.19417
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "ROZO",
+                "codigo_postal": "36330",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 49,
+                "calle": "CTRA BAO",
+                "lon": -8.77881,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe Divino Salvador",
+                "web": null,
+                "parroquia": "CORUXO",
+                "id": 5174,
+                "id_tipo": 151,
+                "telefono": "986490320",
+                "lat": 42.19417
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.74148,
+                    42.22047
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36209",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 5,
+                "calle": "RUA ESTRADA",
+                "lon": -8.74148,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe Don Bosco",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5175,
+                "id_tipo": 151,
+                "telefono": "986231149",
+                "lat": 42.22047
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72738,
+                    42.22156
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "FREIXEIRO",
+                "codigo_postal": "36210",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 171,
+                "calle": "AVDA GRAN VIA",
+                "lon": -8.72738,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe El Castro",
+                "web": null,
+                "parroquia": "FREIXEIRO",
+                "id": 5176,
+                "id_tipo": 151,
+                "telefono": "986481762",
+                "lat": 42.22156
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73029,
+                    42.22976
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36211",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 53,
+                "calle": "AVDA CAMELIAS",
+                "lon": -8.73029,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe Labor",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5177,
+                "id_tipo": 151,
+                "telefono": "986414529",
+                "lat": 42.22976
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.68732,
+                    42.21475
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "RECARE",
+                "codigo_postal": "36313",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 26,
+                "calle": "RUA PARROCHA",
+                "lon": -8.68732,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe Las Acacias",
+                "web": null,
+                "parroquia": "BEMBRIVE",
+                "id": 5178,
+                "id_tipo": 151,
+                "telefono": "986278016",
+                "lat": 42.21475
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.69180,
+                    42.22776
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "PARDAVILA",
+                "codigo_postal": "36214",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 31,
+                "calle": "BDA CAPITAN",
+                "lon": -8.69180,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe Losada",
+                "web": null,
+                "parroquia": "LAVADORES",
+                "id": 5179,
+                "id_tipo": 151,
+                "telefono": "986272229",
+                "lat": 42.22776
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72425,
+                    42.23445
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": null,
+                "codigo_postal": "36203",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 7,
+                "calle": "RUA VENEZUELA",
+                "lon": -8.72425,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe María Auxiliadora",
+                "web": null,
+                "parroquia": null,
+                "id": 5180,
+                "id_tipo": 151,
+                "telefono": "986433855",
+                "lat": 42.23445
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73084,
+                    42.23279
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36202",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 58,
+                "calle": "RUA PI Y MARGALL",
+                "lon": -8.73084,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe María Inmaculada",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5181,
+                "id_tipo": 151,
+                "telefono": "986229520",
+                "lat": 42.23279
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70878,
+                    42.23124
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36205",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 122,
+                "calle": "RUA URZAIZ",
+                "lon": -8.70878,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe Mariano",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5182,
+                "id_tipo": 151,
+                "telefono": "986275168",
+                "lat": 42.23124
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73480,
+                    42.22478
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36208",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 56,
+                "calle": "RUA TOMAS A ALONSO",
+                "lon": -8.73480,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe Mercantil",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5183,
+                "id_tipo": 151,
+                "telefono": "986233818",
+                "lat": 42.22478
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72873,
+                    42.22150
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36211",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 164,
+                "calle": "AVDA GRAN VIA",
+                "lon": -8.72873,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe Miralba",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 5184,
+                "id_tipo": 151,
+                "telefono": "986213047",
+                "lat": 42.22150
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.69346,
+                    42.21406
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "GANDARIÑA",
+                "codigo_postal": "36214",
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 84,
+                "calle": "RUA PAZ PARDO",
+                "lon": -8.69346,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe Montecastelo",
+                "web": null,
+                "parroquia": "LAVADORES",
+                "id": 5185,
+                "id_tipo": 151,
+                "telefono": "986412488",
+                "lat": 42.21406
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.70198,
+                    42.24259
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": null,
+                "codigo_postal": null,
+                "tipo_es": "Centro Privado (CPR)",
+                "numero": 41,
+                "calle": "RUA MONTECELO ALTO",
+                "lon": -8.70198,
+                "tipo_gl": "Centro Privado (CPR)",
+                "nombre": "CPR Plurilingüe Monterrey",
+                "web": null,
+                "parroquia": null,
+                "id": 5186,
+                "id_tipo": 151,
+                "telefono": "986272047",
+                "lat": 42.24259
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72156,
+                    42.23454
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36203",
+                "tipo_es": "Escola de Danza Privada (EDANPR)",
+                "numero": 8,
+                "calle": "RUA JOAQUIN LORIGA",
+                "lon": -8.72156,
+                "tipo_gl": "Escola de Danza Privada (EDANPR)",
+                "nombre": "EDANPR Danza Pasiños",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1904,
+                "id_tipo": 159,
+                "telefono": "986430607",
+                "lat": 42.23454
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.72955,
+                    42.22863
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36211",
+                "tipo_es": "Escola de Danza Privada (EDANPR)",
+                "numero": 78,
+                "calle": "RUA ROMIL",
+                "lon": -8.72955,
+                "tipo_gl": "Escola de Danza Privada (EDANPR)",
+                "nombre": "EDANPR Esperanza Arrondo",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1929,
+                "id_tipo": 159,
+                "telefono": "986470039",
+                "lat": 42.22863
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73022,
+                    42.23345
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36202",
+                "tipo_es": "Escola de Danza Privada (EDANPR)",
+                "numero": 61,
+                "calle": "RUA PI Y MARGALL",
+                "lon": -8.73022,
+                "tipo_gl": "Escola de Danza Privada (EDANPR)",
+                "nombre": "EDANPR Coppelia",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1930,
+                "id_tipo": 159,
+                "telefono": "986425193",
+                "lat": 42.23345
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.74718,
+                    42.21159
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36209",
+                "tipo_es": "Escola de Danza Privada (EDANPR)",
+                "numero": 2,
+                "calle": "RUA CRONISTA RODRIGUEZ ELIAS",
+                "lon": -8.74718,
+                "tipo_gl": "Escola de Danza Privada (EDANPR)",
+                "nombre": "EDANPR Susana Castro",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1974,
+                "id_tipo": 159,
+                "telefono": "986296968",
+                "lat": 42.21159
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.73022,
+                    42.23345
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "barrio": "VIGO",
+                "codigo_postal": "36202",
+                "tipo_es": "Centro de Estudios de Danza (CEDA)",
+                "numero": 61,
+                "calle": "RUA PI Y MARGALL",
+                "lon": -8.73022,
+                "tipo_gl": "Centro de Estudios de Danza (CEDA)",
+                "nombre": "CEDA Elemental Coppelia",
+                "web": null,
+                "parroquia": "VIGO",
+                "id": 1928,
+                "id_tipo": 199,
+                "telefono": "986222930",
+                "lat": 42.23345
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}
