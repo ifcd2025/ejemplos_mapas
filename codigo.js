@@ -20,6 +20,7 @@ function mostrarBibliotecas(datos) {
         }
     });
     const sitios = document.getElementById("sitios");
+    sitios.textContent = ""; // limpiamos las cajas anteriores
     for (const punto of datos.features) {
         // Lo normal es usar latitud y longitud pero en los archivos geojson viene
         // al revés
@@ -49,9 +50,17 @@ function mostrarBibliotecas(datos) {
         const div = document.createElement("div");
         div.textContent = nombre;
         div.classList.add("rounded-2", "bg-primary", "text-white", "p-1");
+        div.dataset.latitud = latitud;
+        div.dataset.longitud = longitud;
+        div.addEventListener("click", mostrarLugar);
         sitios.appendChild(div);
     }
     mapa.setZoom(13);
+}
+
+function mostrarLugar(evt) {
+    mapa.setView([evt.currentTarget.dataset.latitud
+        , evt.currentTarget.dataset.longitud], 18);
 }
 
 function obtenerCines() {
