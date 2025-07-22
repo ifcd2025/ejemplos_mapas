@@ -1,5 +1,4 @@
 function obtenerBibliotecas() {
-    console.log(fetch);
     fetch("json/bibliotecas.geojson")
     .then(respuesta => {
         if(respuesta.ok) {
@@ -8,10 +7,11 @@ function obtenerBibliotecas() {
             throw new Error("Error descargando los datos: " + respuesta.status);
         }
     })
-    .then(mostrarBibliotecas)
+    .then(datos => mostrarSitios(datos, "book-fill", "orange"))
     .catch(error => window.alert(error));
 }
-function mostrarBibliotecas(datos) {
+
+function mostrarSitios(datos, nombreIcono, colorIcono) {
     // Eliminamos las marcas anteriores
     mapa.eachLayer((layer) => {
         // Comprobamos si la capa es un marcador
@@ -29,9 +29,9 @@ function mostrarBibliotecas(datos) {
         // Usando desestructurización
         //const [longitud, latitud] = punto.geometry.coordinates;
         const icono = L.AwesomeMarkers.icon({
-            icon: "book-fill",
+            icon: nombreIcono,
             prefix: "bi",
-            markerColor: "blue",
+            markerColor: colorIcono,
             iconColor: "white",
         });
         const marca = L.marker([latitud, longitud], {icon: icono}).addTo(mapa);
@@ -64,15 +64,42 @@ function mostrarLugar(evt) {
 }
 
 function obtenerCines() {
-
+  fetch("json/cines.geojson")
+    .then(respuesta => {
+        if(respuesta.ok) {
+            return respuesta.json();
+        } else {
+            throw new Error("Error descargando los datos: " + respuesta.status);
+        }
+    })
+    .then(datos => mostrarSitios(datos, "camera-reels-fill", "blue"))
+    .catch(error => window.alert(error));
 }
 
 function obtenerFuentes() {
-
+  fetch("json/fuentes.geojson")
+    .then(respuesta => {
+        if(respuesta.ok) {
+            return respuesta.json();
+        } else {
+            throw new Error("Error descargando los datos: " + respuesta.status);
+        }
+    })
+    .then(datos => mostrarSitios(datos, "droplet-fill", "green"))
+    .catch(error => window.alert(error));
 }
 
 function obtenerHoteles() {
-
+  fetch("json/hoteles.geojson")
+    .then(respuesta => {
+        if(respuesta.ok) {
+            return respuesta.json();
+        } else {
+            throw new Error("Error descargando los datos: " + respuesta.status);
+        }
+    })
+    .then(datos => mostrarSitios(datos, "house-fill", "red"))
+    .catch(error => window.alert(error));
 }
 
 const mapa = L.map("mapa").setView([42.23282, -8.72534], 13);
